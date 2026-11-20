@@ -1,5 +1,20 @@
 {
- "updates": [],
+ "updates": [
+  {
+   "label": "Midday",
+   "title": "AI selloff deepens; yields and REITs catch a bid",
+   "summary": "Tech is leading a second straight down day as AI-spending doubts spread after Anthropic's IPO, but money is rotating into Treasuries and rate-sensitive real estate. The 10-year has slipped back to about 5.0% from Monday's 5%+ levels.",
+   "key_points": [
+    "Late morning: Nasdaq 100 (QQQ) about -3%, S&P 500 (SPY) about -1.5%, Dow (DIA) roughly flat; VIX near 31, highest since March",
+    "Chips hit hardest: Nvidia ~-7%, Micron and AMD ~-10%+; Nasdaq 100 ~8% below last Friday's close",
+    "10-year Treasury ~4.99%, down ~6 bp today and off ~5.2% a week ago",
+    "Retail REITs up 1-1.6% (Realty Income, Kimco, Brixmor); office REITs BXP and SL Green up ~1.2%",
+    "Michigan consumer sentiment rose to 51.5 in November from 48.0"
+   ],
+   "talking_point": "Even with stocks selling off, rates easing back toward 5% is helping real estate: net lease and grocery-anchored REITs are up today while tech falls.",
+   "posted": "2026-11-20T16:42:40.530224+00:00"
+  }
+ ],
  "archive": [],
  "monday": {
   "title": "Market Brief — week of November 16, 2026",
@@ -17,5 +32,5 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-20T16:02:18.413132+00:00"
+ "updated": "2026-11-20T16:42:40.530224+00:00"
 }
