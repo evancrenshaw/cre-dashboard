@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T19:45:33.404430+00:00",
+ "updated": "2026-11-20T20:47:22.864706+00:00",
  "groups": [
   {
    "name": "Market & rates",
@@ -7,51 +7,51 @@
     {
      "s": "SPY",
      "name": "S&P 500 ETF",
-     "price": 696.16,
-     "dp": -2.75,
-     "h1": -0.68
+     "price": 692.63,
+     "dp": -3.25,
+     "h1": -0.51
     },
     {
      "s": "QQQ",
      "name": "Nasdaq 100 ETF",
-     "price": 616.46,
-     "dp": -4.43,
-     "h1": -0.72
+     "price": 612.44,
+     "dp": -5.05,
+     "h1": -0.65
     },
     {
      "s": "DIA",
      "name": "Dow ETF",
-     "price": 485.3,
-     "dp": -1.12,
-     "h1": -0.45
+     "price": 482.66,
+     "dp": -1.66,
+     "h1": -0.54
     },
     {
      "s": "IWM",
      "name": "Russell 2000 ETF",
-     "price": 258.57,
-     "dp": -2.14,
-     "h1": -0.5
+     "price": 257.95,
+     "dp": -2.37,
+     "h1": -0.24
     },
     {
      "s": "VNQ",
      "name": "US REIT index ETF",
-     "price": 93.28,
-     "dp": -0.2,
-     "h1": -0.55
+     "price": 92.99,
+     "dp": -0.51,
+     "h1": -0.31
     },
     {
      "s": "KRE",
      "name": "Regional banks ETF",
-     "price": 68.86,
-     "dp": -0.58,
-     "h1": -0.61
+     "price": 68.74,
+     "dp": -0.75,
+     "h1": -0.17
     },
     {
      "s": "TLT",
      "name": "20+ yr Treasury ETF",
-     "price": 81.59,
-     "dp": 1.54,
-     "h1": 0.31
+     "price": 81.46,
+     "dp": 1.38,
+     "h1": -0.16
     }
    ]
   },
@@ -61,51 +61,51 @@
     {
      "s": "SPG",
      "name": "Simon Property",
-     "price": 225.78,
-     "dp": 0.25,
-     "h1": -0.54
+     "price": 225.12,
+     "dp": -0.04,
+     "h1": -0.29
     },
     {
      "s": "O",
      "name": "Realty Income",
-     "price": 58.09,
-     "dp": 0.75,
-     "h1": -0.45
+     "price": 58.1,
+     "dp": 0.76,
+     "h1": 0.02
     },
     {
      "s": "KIM",
      "name": "Kimco",
-     "price": 25.57,
-     "dp": 0.91,
-     "h1": -0.35
+     "price": 25.45,
+     "dp": 0.43,
+     "h1": -0.47
     },
     {
      "s": "REG",
      "name": "Regency Centers",
-     "price": 74.08,
-     "dp": 0.05,
-     "h1": -0.34
+     "price": 73.9,
+     "dp": -0.19,
+     "h1": -0.24
     },
     {
      "s": "FRT",
      "name": "Federal Realty",
-     "price": 111.26,
-     "dp": 0.75,
-     "h1": -0.26
+     "price": 110.8,
+     "dp": 0.34,
+     "h1": -0.41
     },
     {
      "s": "BRX",
      "name": "Brixmor",
-     "price": 30.57,
-     "dp": 0.79,
-     "h1": -0.29
+     "price": 30.46,
+     "dp": 0.43,
+     "h1": -0.36
     },
     {
      "s": "KRG",
      "name": "Kite Realty",
-     "price": 24.75,
-     "dp": 0.08,
-     "h1": -0.32
+     "price": 24.62,
+     "dp": -0.44,
+     "h1": -0.53
     }
    ]
   },
@@ -115,44 +115,44 @@
     {
      "s": "BXP",
      "name": "BXP",
-     "price": 61.64,
-     "dp": -1.01,
-     "h1": -0.56
+     "price": 61.45,
+     "dp": -1.32,
+     "h1": -0.31
     },
     {
      "s": "VNO",
      "name": "Vornado",
-     "price": 32.78,
-     "dp": -1.21,
-     "h1": -0.67
+     "price": 32.53,
+     "dp": -1.96,
+     "h1": -0.76
     },
     {
      "s": "SLG",
      "name": "SL Green",
-     "price": 45.4,
-     "dp": -1.2,
-     "h1": -0.7
+     "price": 45.17,
+     "dp": -1.7,
+     "h1": -0.51
     },
     {
      "s": "KRC",
      "name": "Kilroy",
-     "price": 35.08,
-     "dp": -1.13,
+     "price": 34.82,
+     "dp": -1.86,
      "h1": -0.74
     },
     {
      "s": "HIW",
      "name": "Highwoods (Southeast)",
-     "price": 29.47,
-     "dp": -1.14,
-     "h1": -0.87
+     "price": 29.51,
+     "dp": -1.01,
+     "h1": 0.14
     },
     {
      "s": "CUZ",
      "name": "Cousins (Sun Belt)",
-     "price": 28.88,
-     "dp": 0.14,
-     "h1": -0.45
+     "price": 28.84,
+     "dp": 0,
+     "h1": -0.14
     }
    ]
   },
@@ -162,23 +162,23 @@
     {
      "s": "CBRE",
      "name": "CBRE",
-     "price": 127.6,
-     "dp": -0.56,
-     "h1": -0.68
+     "price": 127.12,
+     "dp": -0.94,
+     "h1": -0.38
     },
     {
      "s": "JLL",
      "name": "JLL",
-     "price": 347.13,
-     "dp": -1.27,
-     "h1": -0.96
+     "price": 347.62,
+     "dp": -1.13,
+     "h1": 0.14
     },
     {
      "s": "CWK",
      "name": "Cushman & Wakefield",
-     "price": 12.68,
-     "dp": -1.63,
-     "h1": -1.01
+     "price": 12.66,
+     "dp": -1.78,
+     "h1": -0.16
     }
    ]
   },
@@ -188,58 +188,58 @@
     {
      "s": "WMT",
      "name": "Walmart",
-     "price": 129.04,
-     "dp": 2.38,
-     "h1": -0.53
+     "price": 128.33,
+     "dp": 1.82,
+     "h1": -0.55
     },
     {
      "s": "TGT",
      "name": "Target",
-     "price": 166.59,
-     "dp": -0.52,
-     "h1": -0.07
+     "price": 166.73,
+     "dp": -0.44,
+     "h1": 0.08
     },
     {
      "s": "KR",
      "name": "Kroger",
-     "price": 68.85,
-     "dp": 1.34,
-     "h1": -0.3
+     "price": 68.43,
+     "dp": 0.72,
+     "h1": -0.61
     },
     {
      "s": "DG",
      "name": "Dollar General",
-     "price": 132.64,
-     "dp": -0.65,
-     "h1": -1.78
+     "price": 131.25,
+     "dp": -1.69,
+     "h1": -1.05
     },
     {
      "s": "DLTR",
      "name": "Dollar Tree",
-     "price": 138.4,
-     "dp": -1.31,
-     "h1": -0.89
+     "price": 138.48,
+     "dp": -1.25,
+     "h1": 0.06
     },
     {
      "s": "TJX",
      "name": "TJX",
-     "price": 140.58,
-     "dp": 0.84,
-     "h1": -0.26
+     "price": 140.33,
+     "dp": 0.66,
+     "h1": -0.18
     },
     {
      "s": "SBUX",
      "name": "Starbucks",
-     "price": 103.55,
-     "dp": -0.88,
-     "h1": -1.11
+     "price": 103.52,
+     "dp": -0.91,
+     "h1": -0.03
     },
     {
      "s": "CMG",
      "name": "Chipotle",
-     "price": 35.78,
-     "dp": -1.43,
-     "h1": -0.31
+     "price": 35.68,
+     "dp": -1.71,
+     "h1": -0.28
     }
    ]
   }
@@ -248,148 +248,148 @@
   {
    "s": "WMT",
    "name": "Walmart",
-   "price": 129.04,
-   "dp": 2.38,
-   "h1": -0.53
+   "price": 128.33,
+   "dp": 1.82,
+   "h1": -0.55
   },
   {
    "s": "TLT",
    "name": "20+ yr Treasury ETF",
-   "price": 81.59,
-   "dp": 1.54,
-   "h1": 0.31
+   "price": 81.46,
+   "dp": 1.38,
+   "h1": -0.16
+  },
+  {
+   "s": "O",
+   "name": "Realty Income",
+   "price": 58.1,
+   "dp": 0.76,
+   "h1": 0.02
   },
   {
    "s": "KR",
    "name": "Kroger",
-   "price": 68.85,
-   "dp": 1.34,
-   "h1": -0.3
-  },
-  {
-   "s": "KIM",
-   "name": "Kimco",
-   "price": 25.57,
-   "dp": 0.91,
-   "h1": -0.35
+   "price": 68.43,
+   "dp": 0.72,
+   "h1": -0.61
   },
   {
    "s": "TJX",
    "name": "TJX",
-   "price": 140.58,
-   "dp": 0.84,
-   "h1": -0.26
+   "price": 140.33,
+   "dp": 0.66,
+   "h1": -0.18
   }
  ],
  "day_down": [
   {
    "s": "QQQ",
    "name": "Nasdaq 100 ETF",
-   "price": 616.46,
-   "dp": -4.43,
-   "h1": -0.72
+   "price": 612.44,
+   "dp": -5.05,
+   "h1": -0.65
   },
   {
    "s": "SPY",
    "name": "S&P 500 ETF",
-   "price": 696.16,
-   "dp": -2.75,
-   "h1": -0.68
+   "price": 692.63,
+   "dp": -3.25,
+   "h1": -0.51
   },
   {
    "s": "IWM",
    "name": "Russell 2000 ETF",
-   "price": 258.57,
-   "dp": -2.14,
-   "h1": -0.5
+   "price": 257.95,
+   "dp": -2.37,
+   "h1": -0.24
   },
   {
-   "s": "CWK",
-   "name": "Cushman & Wakefield",
-   "price": 12.68,
-   "dp": -1.63,
-   "h1": -1.01
+   "s": "VNO",
+   "name": "Vornado",
+   "price": 32.53,
+   "dp": -1.96,
+   "h1": -0.76
   },
   {
-   "s": "CMG",
-   "name": "Chipotle",
-   "price": 35.78,
-   "dp": -1.43,
-   "h1": -0.31
+   "s": "KRC",
+   "name": "Kilroy",
+   "price": 34.82,
+   "dp": -1.86,
+   "h1": -0.74
   }
  ],
  "hour_up": [
   {
-   "s": "TLT",
-   "name": "20+ yr Treasury ETF",
-   "price": 81.59,
-   "dp": 1.54,
-   "h1": 0.31
+   "s": "HIW",
+   "name": "Highwoods (Southeast)",
+   "price": 29.51,
+   "dp": -1.01,
+   "h1": 0.14
+  },
+  {
+   "s": "JLL",
+   "name": "JLL",
+   "price": 347.62,
+   "dp": -1.13,
+   "h1": 0.14
   },
   {
    "s": "TGT",
    "name": "Target",
-   "price": 166.59,
-   "dp": -0.52,
-   "h1": -0.07
+   "price": 166.73,
+   "dp": -0.44,
+   "h1": 0.08
   },
   {
-   "s": "FRT",
-   "name": "Federal Realty",
-   "price": 111.26,
-   "dp": 0.75,
-   "h1": -0.26
+   "s": "DLTR",
+   "name": "Dollar Tree",
+   "price": 138.48,
+   "dp": -1.25,
+   "h1": 0.06
   },
   {
-   "s": "TJX",
-   "name": "TJX",
-   "price": 140.58,
-   "dp": 0.84,
-   "h1": -0.26
-  },
-  {
-   "s": "BRX",
-   "name": "Brixmor",
-   "price": 30.57,
-   "dp": 0.79,
-   "h1": -0.29
+   "s": "O",
+   "name": "Realty Income",
+   "price": 58.1,
+   "dp": 0.76,
+   "h1": 0.02
   }
  ],
  "hour_down": [
   {
    "s": "DG",
    "name": "Dollar General",
-   "price": 132.64,
-   "dp": -0.65,
-   "h1": -1.78
+   "price": 131.25,
+   "dp": -1.69,
+   "h1": -1.05
   },
   {
-   "s": "SBUX",
-   "name": "Starbucks",
-   "price": 103.55,
-   "dp": -0.88,
-   "h1": -1.11
+   "s": "VNO",
+   "name": "Vornado",
+   "price": 32.53,
+   "dp": -1.96,
+   "h1": -0.76
   },
   {
-   "s": "CWK",
-   "name": "Cushman & Wakefield",
-   "price": 12.68,
-   "dp": -1.63,
-   "h1": -1.01
+   "s": "KRC",
+   "name": "Kilroy",
+   "price": 34.82,
+   "dp": -1.86,
+   "h1": -0.74
   },
   {
-   "s": "JLL",
-   "name": "JLL",
-   "price": 347.13,
-   "dp": -1.27,
-   "h1": -0.96
+   "s": "QQQ",
+   "name": "Nasdaq 100 ETF",
+   "price": 612.44,
+   "dp": -5.05,
+   "h1": -0.65
   },
   {
-   "s": "DLTR",
-   "name": "Dollar Tree",
-   "price": 138.4,
-   "dp": -1.31,
-   "h1": -0.89
+   "s": "KR",
+   "name": "Kroger",
+   "price": 68.43,
+   "dp": 0.72,
+   "h1": -0.61
   }
  ]
 }
