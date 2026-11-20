@@ -1,6 +1,20 @@
 {
  "updates": [
   {
+   "label": "After close",
+   "title": "S&P 500 and Dow close in correction",
+   "summary": "The AI selloff picked up into the close: the S&P 500 fell 3.7% and the Nasdaq 5.3%, capping the worst week since April 2025 and putting the S&P 500 and Dow more than 10% below their records. Money kept moving into Treasuries, pulling the 10-year down to about 4.93%.",
+   "key_points": [
+    "Close: S&P 500 -3.7% (6,910), Dow -1.9% (48,147), Nasdaq -5.3% (22,618); Nasdaq now down for 2026",
+    "Week: S&P 500 about -8.6%, Dow -8.0%, Nasdaq -10.0%; S&P down seven straight days",
+    "Chips led the drop: Nvidia -13.8%, Micron -13.9%, AMD -13.3%; most stocks outside tech rose",
+    "10-year Treasury closed near 4.93%, down about 11 bp from 5.04% Thursday",
+    "Fed Gov. Cook said rates aren't high enough to beat inflation; a December hike is still priced as near-certain"
+   ],
+   "talking_point": "The stock selloff is pulling the 10-year back under 5%, which takes some pressure off financing for well-leased retail even while the Fed signals a December hike.",
+   "posted": "2026-11-20T21:43:32.674849+00:00"
+  },
+  {
    "label": "Midday",
    "title": "AI selloff deepens; yields and REITs catch a bid",
    "summary": "Tech is leading a second straight down day as AI-spending doubts spread after Anthropic's IPO, but money is rotating into Treasuries and rate-sensitive real estate. The 10-year has slipped back to about 5.0% from Monday's 5%+ levels.",
@@ -32,7 +46,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-20T18:54:03.323024+00:00",
+ "updated": "2026-11-20T21:43:32.674849+00:00",
  "friday": {
   "title": "What Moved — week of Nov 16, 2026",
   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
