@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {"name": "Market & rates", "symbols": [
+      ["SPY", "S&P 500 ETF"], ["QQQ", "Nasdaq 100 ETF"], ["DIA", "Dow ETF"], ["IWM", "Russell 2000 ETF"],
+      ["VNQ", "US REIT index ETF"], ["KRE", "Regional banks ETF"], ["TLT", "20+ yr Treasury ETF"]
+    ]},
+    {"name": "Retail REITs", "symbols": [
+      ["SPG", "Simon Property"], ["O", "Realty Income"], ["KIM", "Kimco"], ["REG", "Regency Centers"],
+      ["FRT", "Federal Realty"], ["BRX", "Brixmor"], ["KRG", "Kite Realty"]
+    ]},
+    {"name": "Office REITs", "symbols": [
+      ["BXP", "BXP"], ["VNO", "Vornado"], ["SLG", "SL Green"], ["KRC", "Kilroy"],
+      ["HIW", "Highwoods (Southeast)"], ["CUZ", "Cousins (Sun Belt)"]
+    ]},
+    {"name": "CRE services", "symbols": [
+      ["CBRE", "CBRE"], ["JLL", "JLL"], ["CWK", "Cushman & Wakefield"]
+    ]},
+    {"name": "Retail tenants", "symbols": [
+      ["WMT", "Walmart"], ["TGT", "Target"], ["KR", "Kroger"], ["DG", "Dollar General"],
+      ["DLTR", "Dollar Tree"], ["TJX", "TJX"], ["SBUX", "Starbucks"], ["CMG", "Chipotle"]
+    ]}
+  ]
+}

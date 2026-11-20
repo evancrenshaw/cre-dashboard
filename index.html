@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CRE Desk</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,600&display=swap" rel="stylesheet">
+<style>
+/* VOICE: a newspaper's markets desk at night — calm, dense, readable from across the desk.
+   IDEA: the front page of a daily briefing sheet, kept live.
+   PICTURE: the big clock + weather masthead, then three ruled columns.
+   COLOUR and TYPE: night slate ground, red section tabs, green/red for moves; Source Serif 4 heads, Inter body.
+   LAYOUT: masthead, ticker tape, then Markets | News | Weekly briefs, each column scrolling on its own. */
+:root{color-scheme:dark;--bg:#10191e;--panel:#152229;--rule:#26363f;--ink:#e8eef1;--mute:#8fa3ad;--red:#e3120b;--slate:#6fb0cf;--up:#3fbf8f;--down:#f0616d;--warn:#e9b44c}
+*{box-sizing:border-box;min-width:0}
+html,body{height:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 Inter,system-ui,sans-serif;overflow-x:clip;font-variant-numeric:tabular-nums}
+a{color:inherit;text-decoration:none}
+a:hover{color:var(--slate)}
+.wrap{display:flex;flex-direction:column;min-height:100vh}
+header.mast{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:clamp(16px,3vw,48px);align-items:center;padding:18px max(2vw,16px) 14px;border-bottom:1px solid var(--rule)}
+.clock{font:600 clamp(44px,5vw,76px)/1 Inter,sans-serif;letter-spacing:-.02em}
+.clock small{font-size:.38em;color:var(--mute);font-weight:500;margin-left:6px}
+.date{color:var(--mute);margin-top:6px;font-size:16px}
+.mstat{display:inline-flex;align-items:center;gap:8px;margin-top:8px;font-weight:600;font-size:14px}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--mute)}
+.dot.open{background:var(--up);box-shadow:0 0 0 4px #3fbf8f33}
+.dot.ext{background:var(--warn)}
+.wx{display:flex;gap:clamp(14px,2vw,28px);align-items:center;justify-content:center;flex-wrap:wrap}
+.wxnow{display:flex;align-items:center;gap:12px}
+.wxnow svg{width:56px;height:56px}
+.wxt{font:600 44px/1 Inter,sans-serif}
+.wxd{color:var(--mute);font-size:14px}
+.hours{display:flex;gap:4px}
+.hr{text-align:center;padding:6px 8px;border-radius:8px;background:var(--panel);font-size:13px;width:56px}
+.hr b{display:block;font-size:15px}
+.hr .p{color:var(--slate);font-size:12px}
+.days{display:flex;gap:4px}
+.dy{background:var(--panel);border-radius:8px;padding:6px 10px;font-size:13px;text-align:center}
+.dy b{display:block}
+.brand{text-align:right}
+.brand h1{font:600 26px/1.05 "Source Serif 4",Georgia,serif;margin:0}
+.brand div{color:var(--mute);font-size:13px;margin-top:6px}
+.tape{border-bottom:1px solid var(--rule);min-height:46px}
+main{flex:1;display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1.25fr) minmax(0,1fr);min-height:0}
+.col{border-right:1px solid var(--rule);display:flex;flex-direction:column;min-height:0}
+.col:last-child{border-right:0}
+.colhead{display:flex;align-items:baseline;justify-content:space-between;gap:12px;padding:14px 18px 10px;border-bottom:1px solid var(--rule)}
+.colhead h2{font:600 22px/1.1 "Source Serif 4",Georgia,serif;margin:0;padding-top:8px;border-top:3px solid var(--red)}
+.stamp{color:var(--mute);font-size:12px;white-space:nowrap}
+.stamp.stale{color:var(--warn)}
+.scroll{overflow-y:auto;flex:1;min-height:0;padding:12px 18px 18px;scrollbar-width:thin;scrollbar-color:var(--rule) transparent}
+h3{font-size:12px;font-weight:600;color:var(--mute);margin:16px 0 6px;letter-spacing:.02em}
+h3:first-child{margin-top:4px}
+table{width:100%;border-collapse:collapse;font-size:14px;table-layout:fixed}
+td:first-child{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.whead{display:flex;justify-content:flex-end;color:var(--mute);font-size:11px;font-weight:600}.whead span{width:84px;text-align:right}
+td{padding:5px 0;border-bottom:1px solid #1d2c34}
+td.n{text-align:right;white-space:nowrap;padding-left:10px;width:84px}
+td .nm{color:var(--mute);font-size:12px;margin-left:6px}
+.up{color:var(--up)}.down{color:var(--down)}.flat{color:var(--mute)}
+.movers{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.mv{background:var(--panel);border-radius:10px;padding:10px 12px}
+.mv h4{margin:0 0 6px;font-size:13px;font-weight:600}
+.mv div{display:flex;justify-content:space-between;font-size:14px;padding:2px 0}
+.empty{color:var(--mute);font-size:14px;padding:10px 0}
+.tvbox{height:430px;border-radius:10px;overflow:hidden;background:var(--panel)}
+.tvcal{height:360px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font:600 13px Inter,sans-serif;color:var(--mute);background:transparent;border:1px solid var(--rule);border-radius:999px;padding:5px 12px;cursor:pointer;min-height:32px}
+.chip[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible{outline:2px solid var(--slate);outline-offset:2px}
+.news{list-style:none;margin:0;padding:0}
+.news li{padding:10px 0;border-bottom:1px solid #1d2c34}
+.news a{font-size:15.5px;font-weight:500;line-height:1.35;display:block}
+.meta{display:flex;gap:8px;align-items:center;color:var(--mute);font-size:12px;margin-top:4px}
+.tag{font-weight:700;font-size:11px;padding:1px 7px;border-radius:4px;background:#22343d;color:var(--ink)}
+.tag.CRE{background:#5a1c1a;color:#ffd8d4}.tag.Local{background:#1f3e4c;color:#cfeaf6}.tag.Finance{background:#203a2f;color:#cdeedd}.tag.Business{background:#3a3220;color:#f2e3bf}
+.new{color:var(--warn);font-weight:700}
+.brief{background:var(--panel);border-radius:12px;padding:14px 16px;margin-bottom:12px}
+.brief .k{display:flex;justify-content:space-between;gap:10px;color:var(--mute);font-size:12px;font-weight:600}
+.brief h4{font:600 18px/1.25 "Source Serif 4",Georgia,serif;margin:6px 0}
+.brief p{margin:0 0 8px;font-size:14.5px}
+.brief ul{margin:0;padding-left:18px;font-size:14px}
+.brief li{margin:3px 0}
+.tp{margin-top:8px;font-size:14px;border-left:3px solid var(--red);padding-left:10px}
+.brief .more{display:inline-block;margin-top:8px;color:var(--slate);font-size:13px;font-weight:600}
+.tl{list-style:none;margin:0;padding:0;border-left:2px solid var(--rule)}
+.tl>li{position:relative;padding:0 0 14px 16px}
+.tl>li::before{content:"";position:absolute;left:-6px;top:5px;width:10px;height:10px;border-radius:50%;background:var(--red)}
+.tl .when{color:var(--mute);font-size:12px;font-weight:600}
+.tl h5{margin:2px 0 4px;font-size:15px}
+.tl ul{margin:0;padding-left:16px;font-size:14px}
+footer{border-top:1px solid var(--rule);color:var(--mute);font-size:11.5px;padding:8px max(2vw,16px);display:flex;gap:16px;flex-wrap:wrap;justify-content:space-between}
+footer a{text-decoration:underline}
+@media(min-width:1100px){html,body{overflow:hidden}.wrap{height:100vh}}
+@media(max-width:1099px){main{grid-template-columns:minmax(0,1fr)}.col{border-right:0;border-bottom:1px solid var(--rule)}.scroll{overflow:visible}header.mast{grid-template-columns:1fr}.brand{text-align:left}.wx{justify-content:flex-start}}
+@media(max-width:600px){.hours,.days{display:none}.movers{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="mast">
+  <div>
+    <div class="clock" id="clock">--:--</div>
+    <div class="date" id="date"></div>
+    <div class="mstat"><span class="dot" id="mdot"></span><span id="mtext">Market status</span></div>
+  </div>
+  <div class="wx" id="wx"><div class="empty">Loading Chattanooga weather…</div></div>
+  <div class="brand"><h1>CRE Desk</h1><div>Chattanooga · retail &amp; office</div></div>
+</header>
+
+<div class="tape">
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+    {"symbols":[
+      {"proName":"FOREXCOM:SPXUSD","title":"S&P 500"},
+      {"proName":"FOREXCOM:DJI","title":"Dow"},
+      {"proName":"FOREXCOM:NSXUSD","title":"Nasdaq 100"},
+      {"proName":"AMEX:IWM","title":"Russell 2000"},
+      {"proName":"TVC:US10Y","title":"10Y yield"},
+      {"proName":"TVC:US02Y","title":"2Y yield"},
+      {"proName":"AMEX:VNQ","title":"REITs (VNQ)"},
+      {"proName":"AMEX:KRE","title":"Regional banks"},
+      {"proName":"CAPITALCOM:DXY","title":"Dollar"},
+      {"proName":"TVC:USOIL","title":"Oil"},
+      {"proName":"TVC:GOLD","title":"Gold"},
+      {"proName":"BITSTAMP:BTCUSD","title":"Bitcoin"}
+    ],"showSymbolLogo":true,"isTransparent":true,"displayMode":"adaptive","colorTheme":"dark","locale":"en"}
+    </script>
+  </div>
+</div>
+
+<main>
+  <section class="col" aria-labelledby="h-mk">
+    <div class="colhead"><h2 id="h-mk">Markets</h2><span class="stamp" id="mk-stamp"></span></div>
+    <div class="scroll">
+      <h3>Biggest moves in your watchlist</h3>
+      <div class="movers" id="movers"><div class="empty">Waiting for the first price check.</div></div>
+      <h3>Watchlist</h3>
+      <div class="whead"><span>Price</span><span>Today</span><span>Past hour</span></div>
+      <div id="watch"></div>
+      <h3>Whole market today: gainers, losers, most active</h3>
+      <div class="tvbox">
+        <div class="tradingview-widget-container" style="height:100%">
+          <div class="tradingview-widget-container__widget" style="height:100%"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-hotlists.js" async>
+          {"colorTheme":"dark","dateRange":"1D","exchange":"US","showChart":false,"locale":"en","isTransparent":true,"showSymbolLogo":true,"showFloatingTooltip":false,"width":"100%","height":"100%"}
+          </script>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="col" aria-labelledby="h-nw">
+    <div class="colhead"><h2 id="h-nw">News</h2>
+      <div class="chips" id="chips" role="group" aria-label="Filter news">
+        <button class="chip" data-f="All" aria-pressed="true">All</button>
+        <button class="chip" data-f="CRE" aria-pressed="false">CRE</button>
+        <button class="chip" data-f="Local" aria-pressed="false">Local</button>
+        <button class="chip" data-f="Finance" aria-pressed="false">Finance</button>
+        <button class="chip" data-f="Business" aria-pressed="false">Business</button>
+      </div>
+    </div>
+    <div class="scroll"><ul class="news" id="news"><li class="empty">Loading headlines…</li></ul></div>
+  </section>
+
+  <section class="col" aria-labelledby="h-br">
+    <div class="colhead"><h2 id="h-br">This week</h2><span class="stamp" id="br-stamp"></span></div>
+    <div class="scroll">
+      <div id="briefs"><div class="empty">Loading briefs…</div></div>
+      <h3>Updates since Monday</h3>
+      <div id="updates"></div>
+      <h3>US economic calendar</h3>
+      <div class="tvbox tvcal">
+        <div class="tradingview-widget-container" style="height:100%">
+          <div class="tradingview-widget-container__widget" style="height:100%"></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-events.js" async>
+          {"colorTheme":"dark","isTransparent":true,"width":"100%","height":"100%","locale":"en","importanceFilter":"0,1","countryFilter":"us"}
+          </script>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <span id="foot-status">Starting…</span>
+  <span>Weather: <a href="https://open-meteo.com/" target="_blank" rel="noopener">Open-Meteo</a> (CC BY 4.0) · Charts &amp; tape: <a href="https://www.tradingview.com/" target="_blank" rel="noopener">TradingView</a> · Watchlist quotes: Finnhub, ~15 min · Briefs: Claude</span>
+</footer>
+</div>
+
+<script>
+{
+const LAT = 35.0456, LON = -85.3097; // Chattanooga
+const TZ = "America/New_York";
+const HOLIDAYS = ["2026-11-26","2026-12-25","2027-01-01","2027-01-18","2027-02-15","2027-03-26","2027-05-31","2027-06-18","2027-07-05","2027-09-06","2027-11-25","2027-12-24"];
+const EARLY = {"2026-11-27":13*60,"2026-12-24":13*60,"2027-11-26":13*60};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
+const pct = v => v == null ? '<span class="flat">—</span>' : `<span class="${v > 0 ? "up" : v < 0 ? "down" : "flat"}">${v > 0 ? "+" : ""}${v.toFixed(2)}%</span>`;
+const nyParts = d => Object.fromEntries(new Intl.DateTimeFormat("en-US",{timeZone:TZ,year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",hour12:false,weekday:"short"}).formatToParts(d).map(p => [p.type, p.value]));
+const ago = iso => { const m = Math.round((Date.now() - new Date(iso)) / 60000); if (isNaN(m)) return ""; if (m < 1) return "just now"; if (m < 60) return m + " min ago"; const h = Math.round(m / 60); if (h < 24) return h + " hr ago"; return Math.round(h / 24) + " d ago"; };
+const shortTime = iso => new Date(iso).toLocaleString("en-US",{timeZone:TZ,weekday:"short",hour:"numeric",minute:"2-digit"});
+const status = {};
+const setStatus = (k, v) => { status[k] = v; $("foot-status").textContent = Object.entries(status).map(([a,b]) => a + ": " + b).join(" · "); };
+
+async function getJSON(path) {
+  const r = await fetch(path + (path.includes("?") ? "&" : "?") + "t=" + Date.now(), {cache:"no-store"});
+  if (!r.ok) throw new Error(r.status);
+  return r.json();
+}
+
+/* ---------- clock + market status ---------- */
+function marketState(now) {
+  const p = nyParts(now), day = `${p.year}-${p.month}-${p.day}`, min = (+p.hour % 24) * 60 + +p.minute;
+  if (p.weekday === "Sat" || p.weekday === "Sun" || HOLIDAYS.includes(day)) return {cls:"", text:"Market closed today"};
+  const close = EARLY[day] || 16 * 60;
+  if (min >= 570 && min < close) { const left = close - min; return {cls:"open", text:`Market open · closes in ${Math.floor(left/60)}h ${left%60}m`}; }
+  if (min >= 240 && min < 570) { const left = 570 - min; return {cls:"ext", text:`Pre-market · opens in ${Math.floor(left/60)}h ${left%60}m`}; }
+  if (min >= close && min < 20 * 60) return {cls:"ext", text:"After hours"};
+  return {cls:"", text:"Market closed"};
+}
+function tick() {
+  const now = new Date();
+  const t = now.toLocaleTimeString("en-US",{timeZone:TZ,hour:"numeric",minute:"2-digit",second:"2-digit"});
+  const [hms, ap] = t.split(" ");
+  $("clock").innerHTML = `${esc(hms)}<small>${esc(ap)}</small>`;
+  $("date").textContent = now.toLocaleDateString("en-US",{timeZone:TZ,weekday:"long",month:"long",day:"numeric",year:"numeric"});
+  const m = marketState(now);
+  $("mdot").className = "dot " + m.cls;
+  $("mtext").textContent = m.text;
+}
+
+/* ---------- weather (Open-Meteo, straight from the browser) ---------- */
+const WX = c => c === 0 ? ["Clear","sun"] : c <= 2 ? ["Partly cloudy","part"] : c === 3 ? ["Cloudy","cloud"] : c <= 48 ? ["Fog","cloud"] : c <= 57 ? ["Drizzle","rain"] : c <= 67 ? ["Rain","rain"] : c <= 77 ? ["Snow","snow"] : c <= 82 ? ["Showers","rain"] : c <= 86 ? ["Snow showers","snow"] : ["Thunderstorms","storm"];
+function icon(kind) {
+  const sun = '<circle cx="28" cy="26" r="10" fill="#f4c24d"/>';
+  const cloud = '<path d="M16 44h26a9 9 0 0 0 0-18 13 13 0 0 0-25 3 7.5 7.5 0 0 0-1 15z" fill="#b8c7cf"/>';
+  const drops = '<path d="M22 49l-2 5M31 49l-2 5M40 49l-2 5" stroke="#6fb0cf" stroke-width="3" stroke-linecap="round"/>';
+  const flakes = '<g fill="#e8eef1"><circle cx="21" cy="52" r="2"/><circle cx="30" cy="54" r="2"/><circle cx="39" cy="52" r="2"/></g>';
+  const bolt = '<path d="M31 45l-6 9h6l-3 7 9-11h-6l3-5z" fill="#f4c24d"/>';
+  const body = {sun, part: sun + cloud, cloud, rain: cloud + drops, snow: cloud + flakes, storm: cloud + bolt}[kind];
+  return `<svg viewBox="0 0 60 62" aria-hidden="true">${body}</svg>`;
+}
+async function loadWeather() {
+  try {
+    const u = `https://api.open-meteo.com/v1/forecast?latitude=${LAT}&longitude=${LON}&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m&hourly=temperature_2m,precipitation_probability,weather_code&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&temperature_unit=fahrenheit&wind_speed_unit=mph&timezone=${encodeURIComponent(TZ)}&forecast_days=5`;
+    const w = await (await fetch(u)).json();
+    const c = w.current, [label, kind] = WX(c.weather_code);
+    const nowIdx = w.hourly.time.findIndex(t => new Date(t + ":00") > new Date(Date.now() - 3600e3));
+    const hrs = [1,2,3,4,5,6].map(k => nowIdx + k * 2).filter(i => w.hourly.time[i]).map(i => {
+      const h = new Date(w.hourly.time[i]).toLocaleTimeString("en-US",{hour:"numeric"});
+      return `<div class="hr">${esc(h)}<b>${Math.round(w.hourly.temperature_2m[i])}°</b><span class="p">${w.hourly.precipitation_probability[i] ?? 0}%</span></div>`;
+    }).join("");
+    const days = w.daily.time.slice(1, 5).map((d, i) => `<div class="dy">${esc(new Date(d + "T12:00").toLocaleDateString("en-US",{weekday:"short"}))}<b>${Math.round(w.daily.temperature_2m_max[i+1])}° / ${Math.round(w.daily.temperature_2m_min[i+1])}°</b><span class="p" style="color:var(--slate)">${w.daily.precipitation_probability_max[i+1] ?? 0}%</span></div>`).join("");
+    $("wx").innerHTML = `<div class="wxnow">${icon(kind)}<div><div class="wxt">${Math.round(c.temperature_2m)}°</div><div class="wxd">${esc(label)} · feels ${Math.round(c.apparent_temperature)}°<br>H ${Math.round(w.daily.temperature_2m_max[0])}° L ${Math.round(w.daily.temperature_2m_min[0])}° · rain ${w.daily.precipitation_probability_max[0] ?? 0}% · wind ${Math.round(c.wind_speed_10m)} mph</div></div></div><div class="hours">${hrs}</div><div class="days">${days}</div>`;
+    setStatus("Weather", "ok");
+  } catch (e) { setStatus("Weather", "unavailable"); if (!$("wx").querySelector(".wxnow")) $("wx").innerHTML = '<div class="empty">Weather unavailable right now — retrying in 15 min.</div>'; }
+}
+
+/* ---------- watchlist + movers (data/movers.json from GitHub Actions) ---------- */
+function moverBox(title, rows, key) {
+  if (!rows || !rows.length) return `<div class="mv"><h4>${esc(title)}</h4><div class="empty">Not enough data yet</div></div>`;
+  return `<div class="mv"><h4>${esc(title)}</h4>${rows.map(r => `<div><span>${esc(r.s)}</span>${pct(r[key])}</div>`).join("")}</div>`;
+}
+async function loadMovers() {
+  try {
+    const d = await getJSON("data/movers.json");
+    $("movers").innerHTML = moverBox("Past hour ▲", d.hour_up, "h1") + moverBox("Past hour ▼", d.hour_down, "h1") + moverBox("Today ▲", d.day_up, "dp") + moverBox("Today ▼", d.day_down, "dp");
+    $("watch").innerHTML = d.groups.map(g => `<h3>${esc(g.name)}</h3><table><tbody>${g.rows.map(r => `<tr><td><b>${esc(r.s)}</b><span class="nm">${esc(r.name)}</span></td><td class="n">${r.price.toFixed(2)}</td><td class="n">${pct(r.dp)}</td><td class="n" title="Past hour">${pct(r.h1)}</td></tr>`).join("")}</tbody></table>`).join("");
+    const open = marketState(new Date()).cls === "open", mins = (Date.now() - new Date(d.updated)) / 60000;
+    $("mk-stamp").textContent = "Watchlist " + ago(d.updated) + " · day % / 1h %";
+    $("mk-stamp").className = "stamp" + (open && mins > 40 ? " stale" : "");
+    setStatus("Quotes", ago(d.updated));
+  } catch (e) {
+    $("movers").innerHTML = '<div class="empty">Watchlist movers start once the Finnhub key is added and the market is open.</div>';
+    setStatus("Quotes", "waiting");
+  }
+}
+
+/* ---------- news (data/news.json from GitHub Actions) ---------- */
+let NEWS = [], FILTER = "All", seenBefore = 0;
+try { seenBefore = +localStorage.getItem("seenNews") || 0; } catch (e) {}
+function renderNews() {
+  const list = NEWS.filter(n => FILTER === "All" || n.tag === FILTER);
+  $("news").innerHTML = list.length ? list.map(n => {
+    const fresh = new Date(n.published) > new Date(seenBefore) && seenBefore > 0;
+    return `<li><a href="${esc(safeUrl(n.link))}" target="_blank" rel="noopener">${esc(n.title)}</a><div class="meta"><span class="tag ${esc(n.tag)}">${esc(n.tag)}</span><span>${esc(n.source)}</span><span>${esc(ago(n.published))}</span>${fresh ? '<span class="new">New</span>' : ""}</div></li>`;
+  }).join("") : '<li class="empty">No headlines in this filter right now.</li>';
+}
+async function loadNews() {
+  try {
+    const d = await getJSON("data/news.json");
+    NEWS = d.items || [];
+    renderNews();
+    setStatus("News", ago(d.updated));
+  } catch (e) { $("news").innerHTML = '<li class="empty">Headlines appear after the first update runs.</li>'; setStatus("News", "waiting"); }
+}
+$("chips").addEventListener("click", e => {
+  const b = e.target.closest(".chip"); if (!b) return;
+  FILTER = b.dataset.f;
+  for (const c of document.querySelectorAll(".chip")) c.setAttribute("aria-pressed", c === b);
+  try { localStorage.setItem("newsFilter", FILTER); } catch (e) {}
+  renderNews();
+});
+try { const f = localStorage.getItem("newsFilter"); if (f) { const b = document.querySelector(`.chip[data-f="${f}"]`); if (b) b.click(); } } catch (e) {}
+setInterval(() => { try { localStorage.setItem("seenNews", Date.now()); } catch (e) {} }, 30 * 60e3);
+
+/* ---------- weekly briefs (data/briefs.json, written by Claude scheduled tasks) ---------- */
+function briefCard(kind, b) {
+  if (!b) return `<div class="brief"><div class="k"><span>${kind === "monday" ? "Monday brief" : "Friday · What Moved"}</span></div><div class="empty">${kind === "monday" ? "Posts here after Monday's 6:39 AM run." : "Posts here after Friday's 6:44 AM run."}</div></div>`;
+  return `<div class="brief"><div class="k"><span>${kind === "monday" ? "Monday brief" : "Friday · What Moved"}</span><span>${esc(shortTime(b.posted))}</span></div>
+    <h4>${esc(b.title)}</h4><p>${esc(b.summary)}</p>
+    <ul>${(b.key_points || []).map(k => `<li>${esc(k)}</li>`).join("")}</ul>
+    ${b.talking_point ? `<div class="tp"><b>Talking point:</b> ${esc(b.talking_point)}</div>` : ""}
+    ${b.link ? `<a class="more" href="${esc(safeUrl(b.link))}" target="_blank" rel="noopener">Open the full brief →</a>` : ""}</div>`;
+}
+async function loadBriefs() {
+  try {
+    const d = await getJSON("data/briefs.json");
+    // Show the most recent of Monday/Friday first.
+    const order = [["monday", d.monday], ["friday", d.friday]].sort((a, b) => new Date(b[1]?.posted || 0) - new Date(a[1]?.posted || 0));
+    $("briefs").innerHTML = order.map(([k, b]) => briefCard(k, b)).join("");
+    const ups = d.updates || [];
+    $("updates").innerHTML = ups.length ? `<ul class="tl">${ups.map(u => `<li><div class="when">${esc(u.label)} · ${esc(shortTime(u.posted))}</div><h5>${esc(u.title)}</h5><ul>${(u.key_points || []).map(k => `<li>${esc(k)}</li>`).join("")}</ul>${u.talking_point ? `<div class="tp">${esc(u.talking_point)}</div>` : ""}</li>`).join("")}</ul>` : '<div class="empty">Midday and after-close check-ins post here each weekday.</div>';
+    $("br-stamp").textContent = d.updated ? "Updated " + ago(d.updated) : "";
+    setStatus("Briefs", "ok");
+  } catch (e) { $("briefs").innerHTML = '<div class="empty">Briefs will appear after the first scheduled run.</div>'; setStatus("Briefs", "waiting"); }
+}
+
+tick(); setInterval(tick, 1000);
+loadWeather(); setInterval(loadWeather, 15 * 60e3);
+loadMovers(); setInterval(loadMovers, 2 * 60e3);
+loadNews(); setInterval(loadNews, 5 * 60e3);
+loadBriefs(); setInterval(loadBriefs, 5 * 60e3);
+// Full reload every 6 hours keeps the widgets fresh and picks up any page changes.
+setTimeout(() => location.reload(), 6 * 3600e3);
+}
+</script>
+</body>
+</html>
