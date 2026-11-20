@@ -1,1 +1,21 @@
-{"updates": [], "archive": []}
+{
+ "updates": [],
+ "archive": [],
+ "monday": {
+  "title": "Market Brief — week of November 16, 2026",
+  "summary": "Rates are going up while retail space stays scarce: financing is harder, but the space itself is still in demand. The 10-year is back above 5% and futures price a December 9 Fed hike, while retail vacancy sits near record lows and office is stabilizing only at the top end.",
+  "key_points": [
+   "10-year Treasury back above 5% (5.17% intraday Fri); futures price a Dec 9 Fed hike at ~88% (forecast)",
+   "October CPI +0.4%, core +0.3% for a third straight month — inflation still sticky",
+   "Jobs beat: +165K payrolls, unemployment 4.1%",
+   "Retail is tight: national vacancy ~4.3–5.9%, record-low new supply, rents up ~2.5% y/y",
+   "Office: CBRE vacancy 18.2% and falling; sublease space lowest since 2020, but Class B/C still weak",
+   "Distress rising: CMBS special servicing 11.74%, highest since 2012; retail delinquency +63 bp in October",
+   "Local: $900M+ downtown construction; Hwy 153 Chick-fil-A traded at a 4.15% cap — the corridor's top-of-market comp"
+  ],
+  "talking_point": "Good strip and pad space is the scarcest it's been in years — credit-tenant deals on 153 still trade tight even with the 10-year above 5%.",
+  "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
+  "posted": "2026-11-16T11:40:44+00:00"
+ },
+ "updated": "2026-11-20T16:02:18.413132+00:00"
+}
