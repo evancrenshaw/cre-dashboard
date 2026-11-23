@@ -1,6 +1,21 @@
 {
  "updates": [
   {
+   "label": "Midday",
+   "title": "Stocks rebound sharply as Nvidia reinstates Huang",
+   "summary": "Stocks are bouncing back hard from Friday's correction after Nvidia's board brought Jensen Huang back as CEO, with the Nasdaq up nearly 7% late morning. The 10-year is little changed near 4.94%, and REITs are lagging the rally.",
+   "key_points": [
+    "Late morning: S&P 500 about +4.9% (~7,250), Dow +3.2% (~49,690), Nasdaq +6.7% (~24,135); VIX down to ~27",
+    "Nvidia up ~30% after its board reinstated Huang, who stepped down Nov 12; its internal investigation continues",
+    "10-year Treasury ~4.94%, up about 2 bp; markets still price a Dec 9 Fed hike near 90%",
+    "REITs trail: VNQ ~+1%, Simon +1%, Kimco and Realty Income under +0.5%, Regency and Federal slightly down; CBRE, JLL, Cushman up 2-4%",
+    "Short week: PCE inflation Wednesday, markets closed Thursday, early close Friday"
+   ],
+   "talking_point": "Stocks bounced but rates didn't fall with them: the 10-year is holding near 4.9%, so pricing on retail deals is still set by the bond market, not the stock rebound.",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
+   "posted": "2026-11-23T16:42:54.591926+00:00"
+  },
+  {
    "label": "After close",
    "title": "S&P 500 and Dow close in correction",
    "summary": "The AI selloff picked up into the close: the S&P 500 fell 3.7% and the Nasdaq 5.3%, capping the worst week since April 2025 and putting the S&P 500 and Dow more than 10% below their records. Money kept moving into Treasuries, pulling the 10-year down to about 4.93%.",
@@ -46,7 +61,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-20T21:43:32.674849+00:00",
+ "updated": "2026-11-23T16:42:54.591926+00:00",
  "friday": {
   "title": "What Moved — week of Nov 16, 2026",
   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
