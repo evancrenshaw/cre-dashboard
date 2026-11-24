@@ -1,6 +1,21 @@
 {
  "updates": [
   {
+   "label": "After close",
+   "title": "Chips drag Nasdaq; Dow ends near 50,000",
+   "summary": "Chip stocks gave back part of Monday's rally and the Nasdaq fell about 1.5%, while the Dow rose roughly 0.9% to finish around 50,000. REITs held their gains into the close, and the 10-year ended little changed near 4.9% ahead of Wednesday's PCE inflation report.",
+   "key_points": [
+    "Close: S&P 500 about -0.5% (~7,200), Nasdaq about -1.5% (~23,740), Dow about +0.9% (~50,000); Nvidia about -6%",
+    "Anthropic shares closed below their IPO price for the first time",
+    "10-year Treasury little changed near 4.9%; NY Fed's Williams warned on inflation, and a December hike is still priced as likely",
+    "REITs outperformed: VNQ +1.2%; retail REITs +1.2-1.9% (Federal, Kite, Brixmor); Sun Belt office Highwoods +2.3%, Cousins +2%; CBRE +3.2%",
+    "Ahead: PCE inflation Wednesday, markets closed Thursday, 1 PM close Friday"
+   ],
+   "talking_point": "Even on a down day for tech, real estate stocks rose and rates held steady, a sign investors are rotating toward income-producing property like necessity retail.",
+   "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+   "posted": "2026-11-24T21:43:31.794331+00:00"
+  },
+  {
    "label": "Midday",
    "title": "Tech gives back gains; consumer confidence jumps",
    "summary": "Chip stocks are pulling the Nasdaq lower after Monday's Nvidia-led surge, while the Dow is holding up. Consumer confidence jumped to its highest in nearly two years and discount and grocery retailers are rallying, with the 10-year steady near 4.92%.",
@@ -91,7 +106,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-24T16:42:55.813120+00:00",
+ "updated": "2026-11-24T21:43:31.794331+00:00",
  "friday": {
   "title": "What Moved — week of Nov 16, 2026",
   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
