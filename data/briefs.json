@@ -1,6 +1,21 @@
 {
  "updates": [
   {
+   "label": "Midday",
+   "title": "Tech gives back gains; consumer confidence jumps",
+   "summary": "Chip stocks are pulling the Nasdaq lower after Monday's Nvidia-led surge, while the Dow is holding up. Consumer confidence jumped to its highest in nearly two years and discount and grocery retailers are rallying, with the 10-year steady near 4.92%.",
+   "key_points": [
+    "Mid-morning: Nasdaq 100 (QQQ) about -2%, S&P 500 (SPY) about -0.7%, Dow (DIA) slightly up; Nvidia down ~5% after Monday's 31% jump",
+    "Conference Board consumer confidence rose to 103.3 in November from 91.9, well above the ~92 forecast and the highest since January 2025",
+    "Dollar Tree up ~11% on a Q3 beat: comps +4.6% with traffic +3.8%, full-year EPS guidance raised to $8.05-8.25; Best Buy up ~5% on +6.1% comps",
+    "Retail tenants and REITs firm: Target +4%, Dollar General +4%, Kroger +3%; Realty Income +1.1%, other retail REITs +0.3-0.8%; office REITs mixed",
+    "10-year Treasury ~4.92%, little changed; markets still price a December Fed hike at ~95%"
+   ],
+   "talking_point": "Consumer confidence just hit a two-year high and discount retailers are reporting more foot traffic, so value and necessity tenants look like strong credit for retail space right now.",
+   "link": "https://www.advisorperspectives.com/dshort/updates/2026/11/24/consumer-confidence-conference-board-november-2026",
+   "posted": "2026-11-24T16:42:55.813120+00:00"
+  },
+  {
    "label": "After close",
    "title": "Best day since April 2025; short-term yields rise",
    "summary": "Stocks held their huge gains into the close on Nvidia's reinstatement of Jensen Huang, with the Nasdaq up about 6.5% and the S&P 500 near 4.7%, the best day since April 2025. Treasuries sold off as risk appetite returned, led by the 2-year, while the 10-year stayed near 4.94% and REITs gained only modestly.",
@@ -76,7 +91,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-23T21:43:29.361171+00:00",
+ "updated": "2026-11-24T16:42:55.813120+00:00",
  "friday": {
   "title": "What Moved — week of Nov 16, 2026",
   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
