@@ -1,6 +1,21 @@
 {
  "updates": [
   {
+   "label": "After close",
+   "title": "Dow erases steep drop, ends above 50,000",
+   "summary": "Stocks clawed back most of the morning's tariff-and-inflation sell-off: the Dow finished up about 0.3% above 50,000 while the S&P 500 and Nasdaq closed only modestly lower. The 10-year ended near 4.85%, and real estate stocks led the rebound.",
+   "key_points": [
+    "Close: Dow +164 (+0.3%) to ~50,183; S&P 500 -0.25% (~7,183); Nasdaq -0.6% (~23,586); Nvidia -3.9% after falling as much as 8%",
+    "10-year finished near 4.85%, down about 5-6 bp on the day; Freddie Mac 30-year mortgage rate eased to 7.21% from 7.28%",
+    "Beige Book flagged sustained cost pressures, including tariff costs; a December Fed hike is still priced at ~98%",
+    "Late-session watchlist: VNQ +1.2%, retail REITs +0.7-1.4%, office REITs up (Vornado, SL Green ~+3%), CBRE/JLL/Cushman +4-5%; Target -2.8%",
+    "Markets closed Thursday for Thanksgiving; Friday is a half-day session"
+   ],
+   "talking_point": "Stocks spent the day whipsawing on tariffs, but rates drifted lower and real estate stocks finished among the leaders, a good sign for owners thinking about selling stabilized retail.",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+   "posted": "2026-11-25T21:43:12.410988+00:00"
+  },
+  {
    "label": "Midday",
    "title": "Tariffs and hot core PCE sink tech; yields fall",
    "summary": "Stocks are sliding again, led by chips, after the U.S. proposed new tariffs of up to 20% on China, the EU and 12 other partners and core PCE inflation came in a tick hot. Investors are piling into Treasuries, pulling the 10-year down to about 4.82%, and REITs are edging higher.",
@@ -121,7 +136,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-25T16:42:59.955236+00:00",
+ "updated": "2026-11-25T21:43:12.410988+00:00",
  "friday": {
   "title": "What Moved — week of Nov 16, 2026",
   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
