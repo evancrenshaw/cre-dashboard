@@ -1,6 +1,20 @@
 {
  "updates": [
   {
+   "label": "Midday",
+   "title": "Markets closed for Thanksgiving; Black Friday tests store traffic",
+   "summary": "U.S. stock and bond markets are closed for Thanksgiving, so Wednesday's close stands: the Dow above 50,000 and the 10-year near 4.85%. The focus shifts to Black Friday, where forecasts point to fewer store visits but stronger spending at discount and off-price formats.",
+   "key_points": [
+    "No trading today; stocks reopen Friday for a shortened session closing at 1 PM ET, and bond trading also closes early",
+    "Sensormatic forecasts holiday store visits down about 3.5% year over year, with the 10 busiest days making up 30-40% of holiday traffic; Black Friday (Nov. 27) is ranked No. 1",
+    "Bank of America: October retail spending rose 5% year over year, led by discount, big-box and secondhand stores; nearly 30% of shoppers plan to do most of their buying in early to mid-December",
+    "Placer.ai sees off-price apparel, beauty, books and hobby/craft as best positioned; dollar stores and mass merchants peak the day before Thanksgiving, much like grocery"
+   ],
+   "talking_point": "Holiday traffic is forecast to be lighter, but the dollars are going to discount, off-price and grocery-adjacent tenants, which is the tenant mix that keeps a neighborhood center full.",
+   "link": "https://www.retaildive.com/news/black-friday-2026-preview-ai-resale-stores/874163",
+   "posted": "2026-11-26T16:42:42.331536+00:00"
+  },
+  {
    "label": "After close",
    "title": "Dow erases steep drop, ends above 50,000",
    "summary": "Stocks clawed back most of the morning's tariff-and-inflation sell-off: the Dow finished up about 0.3% above 50,000 while the S&P 500 and Nasdaq closed only modestly lower. The 10-year ended near 4.85%, and real estate stocks led the rebound.",
@@ -136,7 +150,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-25T21:43:12.410988+00:00",
+ "updated": "2026-11-26T16:42:42.331536+00:00",
  "friday": {
   "title": "What Moved — week of Nov 16, 2026",
   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
