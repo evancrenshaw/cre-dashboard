@@ -1,6 +1,19 @@
 {
  "updates": [
   {
+   "label": "After close",
+   "title": "Quiet holiday close; online spending runs ahead",
+   "summary": "Little changed since midday: U.S. stock and bond markets stayed closed for Thanksgiving, so Wednesday's close (Dow ~50,183, 10-year near 4.85%) stands. Adobe data shows online holiday spending running ahead of forecast going into Black Friday.",
+   "key_points": [
+    "No trading today; stocks reopen Friday for a half-day session closing at 1 PM ET, with bonds also closing early",
+    "Adobe: U.S. shoppers spent $82.5 billion online this season before Thanksgiving, up 9.1% year over year, versus a 6.7% full-season forecast",
+    "Adobe expects about $4.4 billion of Thanksgiving Day spending on mobile alone; Black Friday store traffic is the next read for brick-and-mortar"
+   ],
+   "talking_point": "Online sales are growing faster than expected, so the store tenants that keep winning are the ones online can't replace: grocery, discount, services and dining.",
+   "link": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
+   "posted": "2026-11-26T21:42:14.008780+00:00"
+  },
+  {
    "label": "Midday",
    "title": "Markets closed for Thanksgiving; Black Friday tests store traffic",
    "summary": "U.S. stock and bond markets are closed for Thanksgiving, so Wednesday's close stands: the Dow above 50,000 and the 10-year near 4.85%. The focus shifts to Black Friday, where forecasts point to fewer store visits but stronger spending at discount and off-price formats.",
@@ -150,7 +163,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-26T16:42:42.331536+00:00",
+ "updated": "2026-11-26T21:42:14.008780+00:00",
  "friday": {
   "title": "What Moved — week of Nov 16, 2026",
   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
