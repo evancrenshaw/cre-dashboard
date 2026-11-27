@@ -1,6 +1,21 @@
 {
  "updates": [
   {
+   "label": "Midday",
+   "title": "Stocks rise in half-day session; yields edge up",
+   "summary": "Stocks are higher in today's shortened session as chip stocks bounce, though they've given back some early gains. The 10-year is back near 4.9%, up from Wednesday's 4.85%, and REITs and discount retailers are lagging.",
+   "key_points": [
+    "Late morning: S&P 500 (SPY) about +1.2% (~7,275), Nasdaq 100 (QQQ) +1.8%, Dow (DIA) +1.0%; stocks close at 1 PM, bonds at 2 PM",
+    "10-year Treasury ~4.9%, up about 5 bp from Wednesday; long bonds (TLT) -1.1%. Brent oil is up ~1% to ~$91 on Middle East attacks",
+    "REITs lag: VNQ +0.4%, retail REITs flat to +0.4% (Simon, Realty Income, Regency); office flat; CBRE +1.3%, Cushman +2.8%",
+    "Discount and grocery tenants down: Dollar Tree -3.6%, TJX -2.3%, Dollar General -1%, Kroger -0.7%; Walmart flat",
+    "Adobe: Thanksgiving Day online sales a record $7.1B, above its $6.9B forecast; Black Friday is forecast at $12.9B"
+   ],
+   "talking_point": "Holiday spending is beating forecasts, but the 10-year is still near 4.9%, so strong tenant sales aren't translating into cheaper financing for retail deals yet.",
+   "link": "https://uk.finance.yahoo.com/news/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+   "posted": "2026-11-27T16:43:10.876067+00:00"
+  },
+  {
    "label": "After close",
    "title": "Quiet holiday close; online spending runs ahead",
    "summary": "Little changed since midday: U.S. stock and bond markets stayed closed for Thanksgiving, so Wednesday's close (Dow ~50,183, 10-year near 4.85%) stands. Adobe data shows online holiday spending running ahead of forecast going into Black Friday.",
@@ -130,20 +145,6 @@
    ],
    "talking_point": "The stock selloff is pulling the 10-year back under 5%, which takes some pressure off financing for well-leased retail even while the Fed signals a December hike.",
    "posted": "2026-11-20T21:43:32.674849+00:00"
-  },
-  {
-   "label": "Midday",
-   "title": "AI selloff deepens; yields and REITs catch a bid",
-   "summary": "Tech is leading a second straight down day as AI-spending doubts spread after Anthropic's IPO, but money is rotating into Treasuries and rate-sensitive real estate. The 10-year has slipped back to about 5.0% from Monday's 5%+ levels.",
-   "key_points": [
-    "Late morning: Nasdaq 100 (QQQ) about -3%, S&P 500 (SPY) about -1.5%, Dow (DIA) roughly flat; VIX near 31, highest since March",
-    "Chips hit hardest: Nvidia ~-7%, Micron and AMD ~-10%+; Nasdaq 100 ~8% below last Friday's close",
-    "10-year Treasury ~4.99%, down ~6 bp today and off ~5.2% a week ago",
-    "Retail REITs up 1-1.6% (Realty Income, Kimco, Brixmor); office REITs BXP and SL Green up ~1.2%",
-    "Michigan consumer sentiment rose to 51.5 in November from 48.0"
-   ],
-   "talking_point": "Even with stocks selling off, rates easing back toward 5% is helping real estate: net lease and grocery-anchored REITs are up today while tech falls.",
-   "posted": "2026-11-20T16:42:40.530224+00:00"
   }
  ],
  "archive": [
@@ -180,7 +181,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-27T11:45:53.904011+00:00",
+ "updated": "2026-11-27T16:43:10.876067+00:00",
  "friday": {
   "title": "What Moved — week of Nov 23, 2026",
   "summary": "A whipsaw holiday week: an AI-led tech selloff (Nasdaq down 4%+ intraday Wednesday) was mostly bought back, and futures pointed sharply higher into Friday's half-day. Data ran hot — Q3 GDP was revised up to 4.3% and core PCE hit 3.3% — locking in odds of a Fed hike on Dec 9. Consumers look sturdier than sentiment suggested, while Children's Place's full liquidation puts more small-box space back on the market.",
