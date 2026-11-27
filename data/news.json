@@ -1,75 +1,565 @@
 {
- "updated": "2026-11-27T06:48:46.217534+00:00",
+ "updated": "2026-11-27T08:29:25.680585+00:00",
  "items": [
+  {
+   "title": "Gold price forecast: Fed rate hike in December may limit recovery to \u20b91.30 lakh per 10 grams by 2026-end, says expert",
+   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSS1wSFJjclpDQzhXOXBYY2R0UTMxLTNVemdRRlAxaF9SME9weWNvQks3a0dhTER3Y1dMd25XX1AxMXlkOWZscV9HQlctUFV0bjJubzNvTDIwX1JjaG4wOFk0aDNQRDMwQVNzSXVvU0xNZDBrYlZqUlhyeHB4SzJoLXAxakc2dDg4MEFlX0RsUkhTWFhha21fUkZJdUNNZGpuUWptVFpQUHdxb19Nd3ZWdl9Sb2VvQUZBWk5jY2xVbVhQRDBqSlhXNHVFZkdydDNJTEZldkstWUtWSGN5Skl6RGlkR0NNV2Q2MzE5Z1hONnhRM0hfX28wSEJMTmFDczlsakJFRzdTc21TX3FxRERN0gGUAkFVX3lxTE1FVVNONG9GZlJqSVBzaEJWcXo2bFhBSFc4WEUyLWszZlhSeS1YSTlTYm9WUEZrbEtXVTlxcnVNOUtXd2lab2ZLdm1RTGxDWkNCX1RpMWFGeGp5ejlXRjJ3VV9yS1VJcmlvdlRjSVc1S0c3MVdDYnByNW11WFhDdlNfZVlMbHpGVU9sajJOdkZUWXRiLUotd3llMF9QNDhmNTRfYWpBTGxSYXBjT3U5endNTlFBeERELTlmcjg5TFUybWdjZjJyZE1sbmJtd1J5WUFzSFIyYk9wLWVBZU43dWpCeEJoTEo0M0U0V0U5SXFKSmxhRGJ6M3l0cXhrN2dpWjM5X3ZGZi1DVndaUUZVQV9YeXZxYw?oc=5",
+   "source": "Livemint",
+   "published": "2026-11-27T08:13:47+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Ireland needs an IDA for real estate investment, says Irish Institutional Property chief",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYjM3Wl9vX2VocDRKMG5RZEFhRmRKRTZUY3JJS3NRWWtYODBCUHJoQlQzdm12dDRLLUtVTF9wMTBEazNmRmh3OUI3eFlIa0RYVWFOd0VudElhV0hiZDEwb0dHUDVSYmVBYTNUbXFnY2U1NFh5V1ZBMjB2cHNhajg2U2RqSUhWc0g4U0NTVldRT0NWcVBNbGdYaEpmTUxCcHRVelowTmJ2V2FYUXMzZVZ3VllLc3FsTkFIM2loZmpZdHBaZXdiLUMxN1VlN0VpU3VsYm5ZenJ3?oc=5",
+   "source": "Business Post",
+   "published": "2026-11-27T07:30:08+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Resilience of Dubai\u2019s Commercial Real Estate Market in Q3 2026",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFZwaVVOZDRhRWVlbUdoSjhFNWNJV0V6VU5nU3pWTG5Gb1dGSXVoNFBORmRELXZSZ3oxR3ZXNmM1eDUwX3p1d0RKM0dpRjZmd25DWmc4R0tTYXlPRHYzT2lpUms2U3NJMktCeGpzVXhEODRDOXJET1RQMHhJMEx5ZzVtWThDT05ZWURPenczWTlmcWZR?oc=5",
+   "source": "UPPERNEWS",
+   "published": "2026-11-27T07:28:46+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Lidl GB To Open 36 Stores As Part Of \u00a3600m Expansion Strategy",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQnBfbG1QaEl2NnN3LU9qR0ZVWUZQdVVWZG9USjd3VXVMUDZYbnJlSFNyQjFRQ3lmTXVpTUtacHMxaWUtVDB0cWU3ZHVxcHQwUVlXRWV4Z2J2OE9KOUJkb2NVNUw4WXMwemE5eGR4LTV4YzlINEJnWVg4aHEtc3Bxdk9xUHhubDlfLVdZUXNlcklUTzJXSTdBX1R4RDV4UzJRemNLQQ?oc=5",
+   "source": "ESM Magazine",
+   "published": "2026-11-27T07:06:11+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "The Pipeline: Commercial real estate transactions for 11.27.26",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTExSdEpJRDA4dnNFS2JKSzAzeDhIUUFETmZVXzlISUtScXM3RUNYNnp5TnAtcFpfWjY2STROS2Z1aUZLZkVFZHFKTmd0UU81VjBrUHExa3E0STl0c0ptbmtKbjhGVTM5ZV9qSEdxallTa2Zvak1vQUhMYkptTldHcVBRUEZLSTlyZG1adnJQWFVIM3dJYkZHNjU4Z1Y2WlZsN0o2dw?oc=5",
+   "source": "Richmond BizSense",
+   "published": "2026-11-27T07:02:07+00:00",
+   "tag": "CRE"
+  },
   {
    "title": "Spain\u2019s Pablo Hern\u00e1ndez de Cos set to lead European Central Bank",
    "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
    "source": "cnbc.com",
-   "published": "2026-11-26T15:28:26+00:00",
+   "published": "2026-11-27T06:50:38+00:00",
    "tag": "Finance"
   },
   {
-   "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-   "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-   "source": "cnbc.com",
-   "published": "2026-11-26T12:46:55+00:00",
-   "tag": "Finance"
-  },
-  {
-   "title": "Fed\u2019s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-   "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
-   "source": "cnbc.com",
-   "published": "2026-11-25T14:18:45+00:00",
-   "tag": "Finance"
-  },
-  {
-   "title": "Secondhand shopping is going mainstream this holiday season as consumers seek value",
-   "link": "https://www.cnbc.com/2026/11/25/secondhand-holiday-shopping-grows-as-shoppers-seek-value.html",
-   "source": "cnbc.com",
-   "published": "2026-11-25T14:17:01+00:00",
+   "title": "Festive Retail Spending Records Broad-Based Growth; Jewellery Leads at 12.2%: RAI\u2013Innoviti SANKET Report",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObEJBZ01GVEk2WVF2emI0WnlQNU5CeHhZQ0cyNThBM21TVjVOR1daWldYWFZubk5PdTRQdS1QdjBTYnJnUTBYclZPdVhFS3loVmFLdVN2TTNLdklDX1RXcGFwQk9xNjJ6RVd6Vk5FTzJ5QTVFTUNUZ2tiRWEwWjNHaTBrdXc5WlVvRjZ3RzNKTXB1ZzFWX042YUp3b3M3ZWFad1V1WmNrWEwyT2dmQUQxQmNjWEVnSUVzUFIwU29reE9fTTBVT3pzMWN3QkltMS1JUjV30gHTAUFVX3lxTE5sQkFnTUZUSTZZUXZ6YjRaeVA1TkJ4eFlDRzI1OEEzbVNWNU5HV1paV1hYVm5uTk91NFB1LVB2MFNicmdRMFhyVk91WEVLeWhWYUt1U3ZNM0t2SUNfVFdwYXBCT3E2MnpFV3pWTkVPMnlBNUVNQ1Rna2JFYTBaM0dpMGt1dzlaVW9GNndHM0pNcHVnMVZfTjZhSndvczdlYVp3VXVaY2tYTDJPZ2ZBRDFCY2NYRWdJRXNQUjBTb2t4T19NMFVPenMxY3dCSW0xLUlSNXc?oc=5",
+   "source": "SMEStreet",
+   "published": "2026-11-27T06:42:42+00:00",
    "tag": "Business"
   },
   {
-   "title": "The Fed is likely to raise rates in December. What it means for your holiday spending",
-   "link": "https://www.cnbc.com/2026/11/25/fed-december-rate-hike-consumer-impact.html",
-   "source": "cnbc.com",
-   "published": "2026-11-25T13:15:01+00:00",
+   "title": "NI retail park sold for more than \u00a310m in 2013 now listed at half that price",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYWhzNG55UlV0OUxYZTF4My1mZDl4QVVTQzA3WHU3MW11T1pjVVQ1N21pR0ZLcGt6cmpmNENSbjl5MkMzRUo1UnFFQXVnUk1jY3c4bGpscUcySE5PeXZrNHZSLVpGU0ozcEE2dkdsUXl1cEZhXzRadVpqOEphenhXMTgyRXZ2NEJ4T3dOX0I1dVdnWDlmU2JrbGtqaXQyaG5mVG5LWXpJb3lENjFXWERYTmZTRFFLVkd6aWZtTnNyOE9PMFFVVmRfUHNUdnh3V2haR0E?oc=5",
+   "source": "Belfast Telegraph",
+   "published": "2026-11-27T06:40:00+00:00",
    "tag": "CRE"
   },
   {
-   "title": "Retail turnarounds are taking hold just in time for the holiday season",
-   "link": "https://www.cnbc.com/2026/11/24/retail-turnarounds-holiday-season.html",
-   "source": "cnbc.com",
-   "published": "2026-11-24T19:26:39+00:00",
-   "tag": "Business"
-  },
-  {
-   "title": "Consumer confidence shoots up after Democrats' midterm victories \u2014 though inflation worries persist",
-   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-   "source": "cnbc.com",
-   "published": "2026-11-24T18:34:43+00:00",
-   "tag": "Finance"
-  },
-  {
-   "title": "Commercial real estate activity falls 14% in October, as interest rates rise",
-   "link": "https://www.cnbc.com/2026/11/24/commercial-real-estate-activity-falls-14percent-in-october.html",
-   "source": "cnbc.com",
-   "published": "2026-11-24T15:05:14+00:00",
+   "title": "One In Four Australian Shoppers Plan To Use AI This Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2g2WU83a0NaZ0pYS19OdFYyUF9kRWdCVGlfZ2RKNG9mdTkxMDZRdS1lOFQtLVBlTm1FU1NPTllaczdEaUpUZkRDemZhVE51UGdFLUdDTXQ3c2NaMFloTV80dlB0UHBOYkZjREwxWnZzalNzMDI3ejJHM0dJOGtyWFlSUWZaNHNvU29JQ0tzVUduUQ?oc=5",
+   "source": "Retail News Asia",
+   "published": "2026-11-27T06:36:40+00:00",
    "tag": "CRE"
   },
   {
-   "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
-   "link": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
-   "source": "cnbc.com",
-   "published": "2026-11-24T14:51:58+00:00",
+   "title": "Meta's Muse AI solution lands in UK as Tesco robots clean up: the retail technology week in numbers",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlVLTnBTZk5hOV83MmFIY1E3NVBxTC1mU1BzbHQwS0Q0QnpkRVh4STNRN1dlSnBsRXZzUmV3eG1NZTNzSk4zaF9RRGtZXy13d05tcEM2ejNlWTJGUzJoRjM0Q24tY2pkeUtfelRSeEhGel9ZazhkY0FqSnZheDZsRFpmczVCU3hkYktycEVvakMxWTN2OEpKdXVYWXktTWh6OWhZMU1Xbi1XeGlJSUFkVXlsV1hmWHRScUs1alpnQk02c205d08xMk5zSlRYek10RWZiWk1yVTl4QmI1VXQzYXcxbGFYaTBI?oc=5",
+   "source": "Retail Technology Innovation Hub",
+   "published": "2026-11-27T06:30:08+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Studio Nicholson Opens Four Asian Stores In Retail Push",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWkdiV1pXSXdJVFV0Wjdzb2RXN1JxNmZQNERiNlQyaG1Sa1FEbmVPZjVBek5uaFFLWFFLX3pkU2ExSHhKSXdDb3BLTmNJZksxbF9WWnBjS3hOYnJyYWdKLXppaHRVT1h6bjdyWmFBWnZGbDY0U0FOQll2MWhleVZNb3MzLUVSQQ?oc=5",
+   "source": "Retail News Asia",
+   "published": "2026-11-27T06:26:28+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Another Great John Hunt Column",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmphVjNsTGdZdkpyd2dBRHp6VnNVTFpVYmVuYVJmbE4tSjdOZjV0bl9ud0g1S1l1YVZwdUd3Z1d5eVdySEthSEhmTE9SakRjMF9ydnFWUVJYRXVnNkZVNmVzWmkwYXNZSi01eUVuVzBobWMzRk9Qby1ZN2VHOUgwRE9BVmxjR1NyNVE?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-27T05:37:04+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Inflation, GDP Both Run Hot in Latest Commerce Department Data",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVmlDR0hudm1Cdl92S0dmUVV0eF9ZS3o2V1ByMTJDWkNfU0FfaXhCZ3p0dG5zZGRMd0dVOFp1Ry03eEV3UnZJbDRPWnNWSVpBWkJEUmZYNS01OFNpemNHeGRoQlFDeU83RzJXUGJTdlJaY01jdVFOOHVjcGtqbGoxeTNDS1VGSmtxLTJ6WmNKdTFmWVdrWHJRNmxhaDNTLW9fVEM2VXN2OG04TlRpTFc2WUNzcTA?oc=5",
+   "source": "The Daily Upside",
+   "published": "2026-11-27T05:01:00+00:00",
    "tag": "Business"
   },
   {
-   "title": "Some U.S. food banks see demand top pandemic levels",
-   "link": "https://www.cnbc.com/2026/11/24/us-food-banks-demand-snap.html",
-   "source": "cnbc.com",
-   "published": "2026-11-24T12:00:01+00:00",
+   "title": "$100,000 Play Money And The Hawaii Trip",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUtnMUVYRXh1Vy1qaExOSmE1azVEQVROcmd3eVVaaTVKVVNOM1BPZmg0WnpBUkE3dHQxbWtNOU04T2RoN2JHQ3Rud0lsbzVNc0l6WHdqZEkzb3FMSTB0Qmxpa1FvV0ZBQTlhaFdOc1dpT3BSeVRIdmdSS3hvQkNRcHB3X3dkZjNrNzZnblEycVk3UE0?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-27T04:57:02+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Deutsche Bank: Tech Stock Sell-Off Nears Bottom \u2013 S&P 500 Projected to Surge 25% to 9000 in 2025, Fed May Hike Interest Rates 3 More Times",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91VDFVQXpURWliTUIwYlYzbUtaQmttTVd3NTZYYkFnR09TTlF6R05SVU5veXlZa2l3Tld4Znl4TTR1enpOZEtTM0pSTjZOdGVTYTRn?oc=5",
+   "source": "36Kr",
+   "published": "2026-11-27T04:41:11+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Fed faces fresh rate hike as inflation and US growth defy expectations",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZQms1Ri1tNEd6TVJiSVd1ZTdtQ2xIejNYMl9CNV9EXzA0aldiVFRiSkcwb2lsbUMyZ3NlXzZ3b0tEN1NCVkVQVjRqdGM5c1JlSk1Jblhqaw?oc=5",
+   "source": "AzerNews",
+   "published": "2026-11-27T04:30:00+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Retail CEOs more confident on growth, but supply chain risks remain: Report",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQLTZ0YnQ1b3BPNDRnbmF2clkweUV3amFLZWNhenRwTElwMGpyU0o2WUp6RzNlekotbnduWVl5WGFZbGduRm5zSFRyYkZGSVg4TFg4N1ZBZUpEbEN3RVFXLUpQaDhmdFpsT3JwYXVOZ1JHTjVCRk81OTJUWFgxcjBPQTBrQmx1V3lIZ3lUak9PZTBwZ3FIQTRnZXBSZ2laVlhSd0tBaFlzNG83cTNfNktpUnZGRWVfUGxGSFN2aXh1Qk83OXBWZFV3WTljdmUwVUZtOGVvbVJ5NWFsTUcxMlZ1RTNCY2VkMjZCLWZGektNbS1TMFRaTGZaQVgzWDZyLVdDaEZ2eUMxTmhTYlVMUkFxYUFXVVTSAd4BQVVfeXFMUEw4TlRRR09sRUQxU2p2Qmt5b0VjcTN5VUZITnFfRUFfem9wbUlOVWFEM29HdGtUemRKd2ZrSEgxanRyX0JTWkZmc2sxTzBTdmpDUFA5Q0pRMThZY3NaOXVkOC1RSTYtOVRzbndoLUlDU1FqWTNxZWNvekJ0eVEzcmI1ZENSSDF6NHVYekhpOWFKVmFJdUZ4MHVNc0RRWWVrajJENnN0TXlpYmtpYUd5ZnloWHFKTEwwYzZJOEppMzRJSHBMVi1DZzE2MGw4cUxEM0FJYjB1V1JfWFI2YTl3?oc=5",
+   "source": "ET Retail",
+   "published": "2026-11-27T04:28:07+00:00",
    "tag": "Business"
+  },
+  {
+   "title": "Shorenstein Buys International Plaza 3 Office Tower in Dallas",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0xvNlhTd3pWSGU4RTBLRFRxZjltY1MwRXYzemRjS3JKNlI3Vm0zNVFVMVoxSDFmdzFYb2dpbDM0aVk4bjR4UWlsc2NTdGU4eTY2dUtsQUZtOWpWVVN6X0VzcFRMOGQ5QjlDYVNQTDhwTm94Snk4a1huSzczV1laRl9ieW03MkpPRWdIRmJTRUtqclowVVdETURTYw?oc=5",
+   "source": "CommercialCafe",
+   "published": "2026-11-27T04:25:33+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Bearettes Bounce Back To Blast Beavers",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMml6WFphU2lWNXU5VDIxc0wybjBNdXY0eVludkxFQTQxMHVUVVUtRnJFQjhZRnY4Vi1mLXM0MHRuOVVsRmxmaVVxSkVqajQ2OHdUVGxZTmNkM250UG90VmFyT2Voc1NXQ1VPT191ak1nSmNiSEZBc0NtMkZEdnJfaVBrT2xDeHNIQV81RTNjUm4xQmlr?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-27T04:21:19+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY09laG1mUWszalBJSzg5UWJLX09IcGtzZGk5cmg1NHNjaG45alBBd01ta2p1dzFSMkZhcjNfM3ZSUnZGbzBzemRkUVVWY0N5dktqbU9RQ1lRbGEtaHdNckE3am4tcmh1RHE4S1NwS2tEM05mVWpub0JFTEQtLTJoWlBHOGJCV2tfQ015d1JjSDU3ZEZVUHFpV2tzNmxXdDhhalB1akROVFJrMkNpVHlJLUZqS2RpQmZmYkVrYUIyNTNERnlt?oc=5",
+   "source": "investingLive",
+   "published": "2026-11-27T04:18:37+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Dima\u2019s Market & Grill Proposed for McDowell Road",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYVpfeWdGX2FOMl9zNlViakhrWTQwRnBMVTNUbHZEZ0Q5d2tVVThZTnVTYnA2N3V0STJVVGx3czd1Sy1KVXVoQWw4b2xzWmNaUUZvVm1fWlZCOEl2eDVZQzRjcHNPMG5VaXVGZWRvYUhBUTF4WmFpTS14S24ydFF4SXJTekhVM1JB?oc=5",
+   "source": "WhatNow",
+   "published": "2026-11-27T02:27:46+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Flexible Offices: Record Leasing as Firms Skip Long Leases",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWGQtSW5xcjRkTDRUVmlvY1Q3TjMyLTZEYU1EaXFNN01ZZUtYUUFyc0lFY3JVN1paa1dnY21EZ3l4NXFkT1l1ZS1YelJVX0JzV3dMSkRBMS1Xcjd1T2daR0hpVnBlU1FZcmNMcGxzX0pPY2ZOWnpWVzJsd0JMdXNydW5TT1Rfd2IwR0owTQ?oc=5",
+   "source": "theopenpress.in",
+   "published": "2026-11-27T02:18:45+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Abrikos Euro West Store Seeks Beer and Wine License in Redmond",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckhjUXk5eTNiQWgxenJuYVN1ZU56WmJVbElLTXpQOWpKUm5zMHBHWHh6dzN2TmswNU5wclFvM21LaGhZTG5Rd2tlWmdYYlZZWk5EeEdtZzBvUnFQWHpEeDNRcG1XX2lDMGtYblVsYlUtQUxtYTB1bU5uSlVURVBoZWVEc1BDdmR5N2hBdmFURkYtYjZwRXE0a1BIQnNSVVE?oc=5",
+   "source": "WhatNow",
+   "published": "2026-11-27T02:02:00+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Experts foresee food inflation cloud over wedding & festive season retail gains",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZldDT1A3NEZYRzZqQXlSdkN3ODVuWmpNM3g5bWxoRDZ0TjNsNmlKTWI1cFl6UVRpU3lpdktYQWhVZjJuUDN2QnVMN0ozNlNMUmNYaEoyc1BvWVRlQ21JZ2xwUExEMFNBWDZiejAweE9jSTE4S2tqdHRCSlhXWC1pUVh2RUQ4cHA0TDh0eDAxbUExdTk0c3NzWFJrTE45OERQMlFsSGRzUWtjbldqY1RScUMtdE5sNWZxLXFpY0dlRzZKMHJrbGJMSDVsdGxFdGdVV19ua3BLYXpVZURIcHlTcFJ4QkUwaXfSAewBQVVfeXFMTjNreXNkUlZvZldNWDdUc1VxNC15Z2VacElETHVpZktud19qWFBoc2xwcVlkaldfRjU0SXRzZzVPd2tiRVZBV0ZLRllOWndvVWJuVVRBVDFYOWNWTGNmYVlDcmFXMmlSSjgzVWYzMmRoOWdYa1kyc2NjaXd3d3l1OGRVMGotV0lsTWRZcGpta2hkckFORHBOUDREVlBSZkRVN0NfQ084ZUEyRWs2aWF4Q0R4ajBrZUdnMmtaaXZQNlVLbm9FbWNVcEZ2MWVBQm5XUmNNaHdHdnR5d3hpRC13RzFNVjFnRTI2eHBsTDI?oc=5",
+   "source": "The Times of India",
+   "published": "2026-11-27T02:01:00+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "Honolulu firm pays $8M for parcels beneath Waimanalo Town Center",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaExWRUxkRXJLblpyS2QyZTE4RzVMRFpib0h4QU80dHBKelNpeWM2S2RrMGt4ajBYcFM5bzV5bnF3LUpjdVdNZDZfY0l4Rmo2UVJ1amFINlZsYlJkUGtzWG1tb2tfVXREeWlJVXR3OGJaOFFLalExejUzMTMtZXNjX0s0MVUyQWR5MldUaXRIYkNmMnFCc0lGLVF3?oc=5",
+   "source": "The Business Journals",
+   "published": "2026-11-27T02:00:00+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Fed officials have differing views on inflation; what will the interest rate trajectory be?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ0ozbTUxVW96aWZiTWtJTnBrMlNDWW1ndDNFTEdaMmtfelgxeFpHMHQ5UUJmOWVSU1VjbnZ0REJBcFJfOXRmWW9kcVJrQVhCOFlsZFIwVFkwRnI0c2Q2cl9OMkp2RW9VdVBBQ0NoOWlUdVcwZGtaTjB2bC1Bc1BOZG9JbVgtVVZ0VWlQSkVUallMYVg5WVk5R2tzQklmdC1w?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-27T01:53:15+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Cautious consumers gear up for Black Friday as inflation woes bite",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdFdKdEFZQVpudGo2eFZxTE41azZvRV9OejVIX1YybEszRjZza3NrSTUzUWlPRlhVQVNMbzAtMGtOTmpJM2NTUURxN3Qya2JPUm1KOWl6V0I2aHY4a21ZVEdJbklMRFJNUXN0THEtZUJ0cTAwZlItRTFuMHBwQWMyRTNOcTRTd3ZzazJ4bWQxZUNMbUVzTmoxY2xpckR5dmdSM3NoV2Z3?oc=5",
+   "source": "The Business Times",
+   "published": "2026-11-27T01:33:00+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "Superdry COO and Lululemon CCO: this week\u2019s fashion retail people moves",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWUF5aElCUTlVQ3F6MVV5dGlTaXdPNW5KdlVCbVI4VWVXbVRpbFU1dEF5MUxKM09XYi1BOU53NmMzMXMxR1E4T1NRTThaOFpQWEpYbnJpWmlDYTloMkhTckd4TTlnZ09CY0pkanVzbnJKQUh4V3l1a09RSUMzRXhzQlF0d2p1N1FoNkczUDZOdjRGRjdIWVpLTE9yMGc2MXhNbWcxQ1dQbE9zTF9yNnc?oc=5",
+   "source": "Drapers",
+   "published": "2026-11-27T01:32:11+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Gold remains under pressure as US interest rate fears intensify",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYnM4UEk1TDBiS294TVhiY2dPUFNwMW1hUlF6SFNad3dlU3UxRV93aHJqSUphdmFiTFpWNE9wQVdPMVdRRHh1YXdlbGhDWDQ0aEZpcEVmckFuNTRjRmNQYXNyZDBQRjYwOFE2U3RaY1REblRuT240QWxDMVg0ZkV4d0lhQkF0OW5Qd1JlYjZraDgtNlZVUG5CNk9FRlNodmZlNDYyRUN6bnltOG1udG5XZHlR?oc=5",
+   "source": "Proactive Investors Australia",
+   "published": "2026-11-27T01:30:31+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Randall Franks Inducted Into Georgia Southern Gospel Music Hall Of Fame",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMWRXVXNPV3BwVGhzSFBEM05kaVE4S3pPLXJTXzJBM0JZSDdCcDcxUUZVV0RWNm9WZXo3MTdCUFFSdVR4TF9LbHplYmpSTnRIUjA1dkY2anU0VjlXaE9wM2ZnTmVSRkhOUDd3b1hEel9lX0ZuSXU4UWZhY2xIcVJmRHFYTUFNMzRuVGdDMXQwS2Fhdw?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-27T00:59:07+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "EMS Called To Aid Man Enjoying Spiked Eggnog - And Other East Ridge Police Calls",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWJRa0xwNUZyYkxzOFdxdXdNZjM2VGJ5NDd3QVM2Z1Vrck02emgzcEtFa3V5Ti1pUmFReG1BODVHamxsX0xfUW5RWFJkaTJiNjJtaG8xY3JSSEdxa19zb0VIajgwWjkyTEY1YkhkVVJuQU9TQXdVZC0zTng5emVwUU5JVUlTek9IVXRlNTUyc0t1NG8?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-27T00:04:06+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "A Weapon Call At Walmart And A Large Fight In The Parking Lot - And Other Collegedale Police Calls",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVUg3b0w1ZGNyWjRBTV9nQXVPQUszUlU5R1Rnd1NieDkydkI3UnFMWDJTLVFuZl9tekZpeWFGOWFWaHQ0U1E1aXF0ZmR3QlItWTYtYVdBUno0ZXdTZzV0SlJDQzJhOEpnaXV4ZHJ1UUNja2sza3FVLU9vcFNoM3VTa3A0S0xwNmRrdndaQ2tfZE9fdw?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-27T00:04:01+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Businesses on the move in Marin and Sonoma counties: Nov. 26 report",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc25iOUxnREFPZDBrYUhRb1ZhZS01d3ZkcmxHa0tFM0gzMWstNHFnZmVkcU45UlQwRkNSUGtaSFVSVnVyc19FUmpPQjkxd0lwaDIyRXVmUEpxUVcwZjNmNmJPMVFrVHRwUm9aZWpGT3JFMDk0WGpsRFhPTFA3OFVxaGNaQWlSRWxYUVFQRUdsRGw5RExu?oc=5",
+   "source": "The Press Democrat",
+   "published": "2026-11-26T23:54:30+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Gold's Gym Closing In Downtown Chattanooga",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2xhM1dYeHhDbzdOTmJ2a2tsYXJSYTZoSHptN0N1VjVFNjc4cVg5NE1kSjZfX2dBODlVWmVUNERUSy1RalFpUmNQY3J0QWFsWVBYY0ZpaDJCdE1IU3I3ZUpzOFhRZVlPOEZ1Z3lRa2cycF96aDBBYmFVaWt1RFViNFJERl9wR3U5STZDUVhmSkUwODA5Uno2Z21R?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T23:39:19+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Zloty under pressure as US data support further Fed hikes | CEO Magazine Poland",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBWNWU5Y1dBRzVHaTZ1WTZlTmphS0tiYmFYRTV3N0Y1WURIS3hzb0tnT1AtbElBcnk1dl8wdUtNN2lsVzJidDg4bDRwSkEtdl95WV95aGZCNDdXd3oyUmJFZ21PcDdtSE5ORE8wMnBkWDFvWHdCSVdOc19BTQ?oc=5",
+   "source": "CEO Magazyn",
+   "published": "2026-11-26T22:33:30+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Local Weather",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80NDBLWThvZERkSC10X1RfMUh2SnQ3T3VzZmV4eFdvR1Ezakt6Wk9aOTJNNUhqNWIzclBzTjJqV2ttb041T2FYQWJyd3RYbE5zN0Vz?oc=5",
+   "source": "Local 3 News",
+   "published": "2026-11-26T22:30:17+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Tyler Stephenson's surprise Reds return could buy their next catching star valuable time",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ1Q2UEp4TjM0YWhOMmVyT1dBMVZKd3VTbkVJNzNtXzJNeWpHcWx4MnVtWDlhQzBvSGxtSnFTU1dhYUxodjBFVHdUb2cwNnhad0xjZ1hCVS1kVkJKN3JLSUw1ZHJpLWxtbGRmSG9NVnJucDRsR1dDWmM1WTBVQTNRNndFTmd2MDE3REVTcG51UW51eUp4WXlFZ0hmRWpZaWZvZ1RFYzN1M21oNGc?oc=5",
+   "source": "Blog Red Machine",
+   "published": "2026-11-26T22:21:00+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Gold slips, silver gains as Fed rate hike expectations persist in holiday trading - Kitco PM Report",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeG5mODVrQkQyYUR6RjI2N25WejFPYUNfbVJNVFRTeVhXWndLWVdmNUNlcmRlM0JWZUdXWU0ydmdFNXZPU2JQNVJWZ2hCbFRTcUlpNjdXN2FpU0lybGlPVC1uR2pmYXI5THlqd3BRR0o1Vzh1Um8tOWNBRGE3NndHc09iNnl1RFFLZjNNRDhlOVNmSDhBanFzLTZUWTdkNklsT1RNV0NFWVl4TGhpVTVJTlpWSzZZemxWY2dDQQ?oc=5",
+   "source": "Kitco",
+   "published": "2026-11-26T22:07:29+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "[Money & Entertainment] Seoul's Retail Boom Raises a Tough Question for K-Content Cities",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15VzNodnBBdklKLUdxZ2NoOEI5Z2lrQWwwU2dIeW9lS0oyajh6cGVRSUpURmV0cGY2clVINVVwODhPNnJpNXJmVEtPX1RzNGxXUUczYVF6V2VURnZiVGJxall1X3JZdw?oc=5",
+   "source": "\ub274\uc2a4\uceec\ucc98",
+   "published": "2026-11-26T21:45:00+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Treasury Yields Fall as Corporate Debt Risks Persist",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZdmdYTVFrSzZ0akN3cFlGNzRpZTBiTVZEZXdrZkllYS0zbkNOeU52YmJtbHd3d2M3N1daZGVzMkVJUzFDdDQtQkZzQlZrUTh3RjZPa3JzMWhXXzZpeks1c1hqdGVDOWR1eDlZUy1lb3NTR0FRSzlJcA?oc=5",
+   "source": "www.suaralandak.co.id",
+   "published": "2026-11-26T21:39:00+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "When Walmart, Target, Costco, and other major retailers open on Black Friday",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZGlBM0hTYVk5elNrU2JmQmNNSmY0LUVpdmdxb2dBbXQ1LXByd1RzRG1yTnhkNnM1dlRlMFNTNzM4SzZSTlFuOGJLcGVLcm5VVlJWMWpOb3RkRW9vY2drLWZlQWJkNkRteExFV19LRDlMWDVqNHc2cEVIN2ppWU1MdFJ1Q1hhSzB4WkJqRE1hbENkZmgwSE55c3FXc3NMcTBZcF8zUVdFR3FHZw?oc=5",
+   "source": "TheStreet",
+   "published": "2026-11-26T21:37:00+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "US Inflation Hits 3.8%: Will the Fed Raise Interest Rates Again in December?",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPckJoTzRUZlhpcnZBcjBQUDdDWGEzMmdPOGJVVjZLOFFmaDZOY0pJN1I1MGo3VEgyb1l2eE9RRzFhOFM0ekNfV3VqdE01UHBxX0pQMGtqT1JJTWZLbEE5czVWYXpOSm93bGxCWVRuNU1QSmh4d0NBdUVGWTVuNFcxc0FMY0NCZHJXa1lBRGp4Ym42U3FJckFBQjFGZzlPMEwwYnphal9sa1UwQ05lNTlMRA?oc=5",
+   "source": "CryptoRank",
+   "published": "2026-11-26T21:11:03+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Why Is Chicago Atlantic (NASDAQ:REFI) Moving Toward A Major Merger?",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPckRDU3hBdjlFWGVLeFJwR2h4MmtHQW1fYzZVb0x5V0N2azFxc25GdzhnQ3B5YWRMYjdUb3MwSG9VaUp6eG5wTzlZTEhjWlNNcFlZcTdwaTE1bXFDNUJJM0ppZ2VJejZYNEhiLWVEblZMWXlhUWJITVlzM2xlLXA1WnV6bWxaU3RVTzhWUFE4LVNGc3UxWF8xLTA2em9wSk5PbWJHYUdyQVFJM2J4bW9kbmdlRWpXcWVhaUM1d2h5aVlmZzZIblE2WA?oc=5",
+   "source": "Kalkine Media",
+   "published": "2026-11-26T21:03:00+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Robust Employment Report Supports Further Fed Rate Hikes",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY0VmZnRneVh6Y2dLTlNKcG1tcXRhUTh6UEUxalZrdmdzVzRmR0tVLUhjcUoxLU5UTElHTFJNdnJFS2s1TmtYY2F4RVJHbHVRQWt3VllaU3lkYmpEZjM0MzJQcGQ5OU9QaG9aRkYxSGJiUEFqajNXQjVlNEZMWVhxdXh2RUVTaG9zN3ZPMWpzYXRrTXJoNDBF?oc=5",
+   "source": "The Conference Board",
+   "published": "2026-11-26T20:55:26+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "Shelf Dividers Set Market Forecast to Expand by 2035, Driven by Urbanization and Home Organization Demand",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNam9CREE2bkR2UTI2VnkySXY3R2dZdWhvQURwSWV0X04zR092YlVSTW5QS3Nkemg5TVZzQmhTSC1hbXd1SlZZU2p4bkNPSUVkUTNGYnJTU2ZMNk1MYXkycUJjUGVHQ1NwUnNMU2lVU2g3WXVxWFBKUzVSLURpVVBMa0xQRjV1aU5STF81czdnS3NkTmRTbVk4SUQwdDl3aDZEd2NERjJfaTNULXB6cGh0RWlScUszV05wTUFFVG55dk9ncmVBV1RxR2paNG1fVk0?oc=5",
+   "source": "IndexBox",
+   "published": "2026-11-26T20:26:04+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "Trump Demands Probe of GDP Revision: What the 4.3% Upgrade Actually Shows",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVNTaXZUa0Y3WGRqTGRSS3g2bV9JRTBFSDdub0h2bDlyNkpRUFM0NzBiTTJVTURnbkM1RjU0WU4yWXk2OGVsOWdza09qYWR3b00wS3JsaVdpNXgtcjNEVzNneWRvMkFueVR6UE1vQ2FIN2xOWGVrekhGTllqWVBpbG9CZV9pNnhXRThGVXZRdjVuSUR1Uy1hRFd3TTFhN1dTaTNESVI1X0lZdw?oc=5",
+   "source": "Around Prague",
+   "published": "2026-11-26T19:41:18+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "Google Buys King's Cross HQ For \u00a3500M: The London Deal Sheet",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ284SG9aOEItRlZlR0RjWWQ0aVZBRmtUZ3dTcmFIZDhfRFRDR2F0QnU2SlJjY01Pbm5zOEJjVnpJU3hHR21ILTFNRGRfQ0xRc2FBME9OTkJmY2tHNnZyV3RIeGY3aEVmc29jS3dyOW5OdkVSU1FJOEN4RzNkckF6Q2ZQemY4VHdGLVJOVUxkcThVTFNlNVU5RUZDN0pudlJjRFZicHJNdzB2NUNhVnc?oc=5",
+   "source": "Bisnow",
+   "published": "2026-11-26T19:15:41+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Liquidity Mapping Around (CAAA) Price Events",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnBJdUFZQlk3bFdnaFBRallSdWFsUHVEV3pabjlYaGRwNmdPemhTTWdkVTFTblAtMzctaU5ZMTc0TjNfS3ByMTVsQ0NlcXNEWWtlSkNacEpOYW1zSE9QejhaR0xLWklDZzhXUkM1RXpTLTdYSlRmT0J1Z21DV09aU0JpRHlUcFlYbVhmVDU2UFlKa0hUN3FjTHNyRG9rcnBzZzVOMVNFZF9zdXQwVWRYYkxaRE5lRzZtNUptdDUtMA?oc=5",
+   "source": "Stock Traders Daily",
+   "published": "2026-11-26T19:06:02+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Chattanoogan.com Prep Picks: Playoffs Week #4",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSExkeVl0dFROX3ZEZVVJb01wZjd6R2p5SE1jSVNyRnZwUHpvVVhOcVlpTVp3R3V6SkpzSkkxVy1lNEFHaU1STWtMQ1NlSWw2SUxQcF9MZllYOW9lb0RpOGNMR3dmV2QwQnZBcjdha1NCSGxPSVZIclg5d3J1eUVYX3VHMjFVVlE1ZlBHd1VYWm55Zw?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T18:27:07+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Fed rate hike odds rise to almost 100%: can AI selloff force a rethink?",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ25sd1hlcGlCVEU2X0w3SDJUQWVVV0ZpTnBzdThUZUVLblZ4aURpOTlobm84XzI3U042OS1VeWNudWxlQ3RXME80bXU4VldEM2pucW1HZDZQcUNwMkZoWGUtNEJYbklxYnJZX1RScUhuMDFQYmtSUnBUcS1xVGVNaEhBRWFnMHF2X0ZWMU1EX2lmSEdxV1k4RU83eXgxd1hrWnd5dVF4OXhDdUtUQ0lrZGhfUzJnd3ItWlJmWTdJd0lDMXM?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-26T18:12:50+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Ares Commercial Real Estate (ACRE) Stock Fair Value Moves Lower As Analysts Weigh Stressed Loans",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN2RETWZ6aFpnNTNlU0ZVN21jU09hX0h3V05FTGM1c0ZmZjFZemlBNWVuVV81S09tRmFPQ2Z4bTBWMU5vc0tHZWp1TDV6Sk5HV0lzSXJHSmd2SzJ5a1JhM25IXzZPLW9iWEljbEp2QVM3LXBVaEV2cWxzRTlNWWROWnBjSDUwSnZ6UlRVNVhfMElzVWVLVG9ZTkFCeHpFUQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-26T18:10:52+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Hamilton Memorial Gardens And Chattanooga Memorial Park Host Remembrance Services On Dec. 5",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNnIxc1JXY1V2cG1wVUxVR2dXT3lFOXhJcE5adjBKb19lTDVuZGVQMEtUY2drQU1EOEdSVHBCdVVGVWR0akVKUmFRQkt4TVNUcklKYmNzY1hrWHdxMXVqOWVyQ2JlNG12OW1WelJDY1czOE42dlJZX0xrNnBVMS1oUTlBSkIwQkVG?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T17:40:28+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Canadian Dollar weakens as markets weigh Fed and BoC rate hike prospects",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3I2azA4ZTZIak1RbHRHTlg4M3QzMXduSEdVenV0OXU1VU10djQxUjZyZ3dSZjF4ZklPSzIxUWxyWG1WRXlVcS1RVkZ3bExOandMTWJpYlFWT1YwNENEMkNCVnp5cU9RbkFpNGdsblBRbjRrcm5RcDJySzIxbXlEd2FxWFBFYmNLMllZeUUtdm1EekFFUXZwQ1FmRjVUcWFYa2wzSTZMYzdkc0RUUmt3N2hIZ1lsZw?oc=5",
+   "source": "FXStreet",
+   "published": "2026-11-26T17:32:31+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Beyond Wired Broadband: InHand 5G Routers Offer Businesses a More Flexible Connectivity Solution",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXdibUMwOUFXYnpyN19iYmZMaGYxMU1sazRfQjBpTGFJZm1RZk5LRXUyYThrVmctbVBQWDhIanRXZWVqTkZscUlTYllMOW9jLWJDNjRpYlVmZHhraHNKY25BOTBWVkhaWkFDd1pHUG1KNktnWUlEV3A5M2gtR2h6NGRfTm4wQUpJOVpRZzlBSm1pRXZZbVRsRzM1dEMzcUVBZ1Bva0ZR?oc=5",
+   "source": "Digital Journal",
+   "published": "2026-11-26T17:28:04+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "US Retailers Split on Thanksgiving Day Store Closures and Hours",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0xfeHRxQmlIeWpfQ1QzWFBTeFd4SWlHaXlULUZvZmM5bnhmT0FKcFhIemV6WVBCSV9sWVZKbWV3SVZvTUVDUmp6UE4zbWxfODF6RW5aaHlxeG9IU1E2SHVsdnc3ZkxzTi1iZ1pDQkMwUGVISFBFc1VtZFU3dG9mNzJubzZQaWdZX3NTSWRKTG5iLXUzeFlSN0IxQ2dmN3psb002b05DNUVFdw?oc=5",
+   "source": "Dosya Haber",
+   "published": "2026-11-26T17:23:17+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "San Francisco Fed says demand for restaurant meals fell across the West",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ19PS3VQTmVKQ2pQbExITENPbWpuRVM3N29fdDB3WmR3Ymt1RExGOU5tU1Y3eFF6SHBkXzQyeHFqRk9rNkNtTDlUZDdodnNmWERUUnFkQXJKQ19rMDRzTjBZU180LXRVTFBXbjdpWl9mRFU2UkdfLXdrdmV4ZE9TNS00YnN1clZaUTBiZUlYRW9MSzh4amk5Nk5QT0RSZE1kN0ZySmxEQnBORU9weTkxWEJxYWlXbE9JNWfSAb8BQVVfeXFMUF9FRG02Vk80cy1oT0UweVU1cnVnYklUQzdMYXVlS2F1V3RXeWRBdlFUSk42MjhQSEMxaEZVakJvUThyczBPT3c4ME5PUnc0VFBNeHNMSFdseEVCcU5fQ2hORXV4dTJyZVJNTVZTVVZpeW0xZHFrb3c2RHgxZERmMWkxbjdnY1hrOGtWX0UteXRQWFZBYW8tdmlEZzRWWUNwc0JpQWR2SjQ3Wmc1bzBfQlg3NGpZRzByRG9tQWVFdlk?oc=5",
+   "source": "Vinetur",
+   "published": "2026-11-26T17:16:49+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "Dubai\u2019s commercial real estate continues to show resilience",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ3czTU9lNE00cmlGT2FKZ1ItbHRzT1RQcXZqa2RLY1kwX3pNRThBd0w2YjlZOTNQX1lfOThGYS1qQVMwMEdJZTlGRWtrOTRxV1BwM2kzM1BzY2hDX0Myc0FYaHRZd3pnMklpZk1IODk3dVFnS0d1VTJ0UTVDSkRDYmdISnkweG1BeWlmTkZMOVN6bUM3QkZDTFpNdno4c2dWcjRKYtIBpAFBVV95cUxQZ3czTU9lNE00cmlGT2FKZ1ItbHRzT1RQcXZqa2RLY1kwX3pNRThBd0w2YjlZOTNQX1lfOThGYS1qQVMwMEdJZTlGRWtrOTRxV1BwM2kzM1BzY2hDX0Myc0FYaHRZd3pnMklpZk1IODk3dVFnS0d1VTJ0UTVDSkRDYmdISnkweG1BeWlmTkZMOVN6bUM3QkZDTFpNdno4c2dWcjRKYg?oc=5",
+   "source": "Khaleej Times",
+   "published": "2026-11-26T16:56:18+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Burman Real Estate",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ma3dmOFVaV1VRSV9PbFNuV1M0LXVna3FSemxwWEJ3YmlsUFpobVNLTmxPQ3Y1aTZ5aG9ZRzM0VWQzV1FieXlTeVdtMlNOY29pa2tnbkFIbUF3a0lDQ1VmUF9Kd2haTjdUUUE?oc=5",
+   "source": "Commercial Observer",
+   "published": "2026-11-26T16:45:19+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Scott Burman",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84NjlobEx4WW1PZlkzRERFWEZpYndGRmptaFNkVEo4M0RuQXpCZ19kUVNncFc2eFNBaGJUaTNGUnFuQk1SZ3UwUUc5dEIzUi1ZUWtBSHl0LXZ3TW1YbFVmMA?oc=5",
+   "source": "Commercial Observer",
+   "published": "2026-11-26T16:45:19+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Gold Price Forecast: Can Gold Recover to $4,000 as US Inflation Reaches 3.8%?",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa04xRXB2aUxyR0xYUVY2T3ZNVXVKelN3Q1pycnhQODZRb1lMRks2NHVmSmRFM3NsWnRDWm9pOU9vc3lxUS0tSkdpLUZ0Yl9IR3lUQXdXcTU1NldJODhKR1JJa3lhejZWLXQ4YmxQdVhYZ2FYOFB2TUd5R1BDakJHWV9YanpuYXQ2U1Qtd1NmRFRTUmhTcnRpVjlTaFROamNIU2Mw?oc=5",
+   "source": "Coinpaper",
+   "published": "2026-11-26T16:40:20+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "Commercial Real Estate Activity Falls 14% in October",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYWs1UVVURmNwdGxrTThPMVV0UmNuRmt6OFNZR2VROG9mU3VlVU00WDh4LTZMVEVEdzk2T0pOMk1FWTgzT0J5TTRRMFlQMng3U3JnUnVhdFFGZ1BTa0o0OUVLbG04OUNNOWx0YUVrZU10MVBrUHN1WUhlTXpWMHJtVEJzTjRZQWktTHlWNHZ4a3VxcE5WZzZJ?oc=5",
+   "source": "Wisevoter",
+   "published": "2026-11-26T16:23:24+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Empty German Offices Hit Decade-High With Some Rents Stagnating",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWFp2S0N2d1pNTFNMUWhXX1RvVjF6eXJDR1NuYmVwdkdISElIYy0zZC1URWZud29IR19MM1hRYTNrN2dYT25RUmZpUGtJOGt3Z2o0bWw4N0dYODJJb0tMZTlMN2xNb0pOSlJ2aUtuX1RFSlgwYXl3TmQtckV5andsWEgxamJKMmFvM2NUOWp5WkYzNDlZVHFoUEZuQVdOLWVWMURxWFVwM3A4X1RCM29sRTVSa2E?oc=5",
+   "source": "Bloomberg",
+   "published": "2026-11-26T16:23:13+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Retailers deepen Black Friday discounts to drive post-Diwali sales",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSFFuQ3ppRUpiWi1OTXJLZzItLXRFTURrWDQ5YWZhZVVWcWozbWxtSXZCTTZoSkZpN09SN3NSUldrTGhnaWltckhNT2xZc3lzQXg5dEZLSmxybTdHM3ZWRDFpaFRLX1lyekxwcDZrY2hWTjJyMm5FQWVuQXBHT19ISWR4UDhIcXhwWmxwNHZsTGpLdFN2Z0pfTlEtYndQRk1RMDFTOEpPQlhjTUhWZXIxcWJKSzE5NFozeE5rNWhRRdIBxgFBVV95cUxNUEJaS1VZY01LbHhvRlM2TllYS1k2d3RMQWhHR3ZJbjR2SHpXRmNhWEpoSkRaSzFNcXVGbWZKRGg3SHRZS0FnZWZoSy00aUVqZ2RReDZYQ1NJMC1zYUNWZUwtVEFMZFd0akhOWS0wZ1FIZHJ2VzgzZ1JIY1RhRTM3LTZmQzNUNEhrYVE1M3lueUp1dG42b1BFRk85RmRaU1lDcElqWHFSblZqbE0tZHA4cmJfYkpqQWRJdF9RSjdQQVBMY2ZyNFE?oc=5",
+   "source": "The Financial Express",
+   "published": "2026-11-26T16:00:00+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "Is Target Open Today? Thanksgiving 2026 Store Hours and Black Friday Opening Times",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQOTRkSXdIZUh1VUxBWEE2MkpiZDBDdzVXOHA4WWZLcms5Nmx4NDJHNmh3RlBXeHBPZnZxVG1rcDhzVlRpUHZhTVUtc3ZDY2Myam5CdldONFFScVpOaVRr?oc=5",
+   "source": "Aktualita.co",
+   "published": "2026-11-26T15:37:53+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Anker opens first UK store at Westfield London",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNamo1eXhGbHdnMXpRa0RpV0hFcVZ0NlF1eWxzc3BkcWF1MUROQU9PdFVMWGVvcDc3VXhCYi1OR2FnZ3Y4S1RMQVlBc0ZkeWxCV1hxSm1Hbm1BdTdvZjlMbW1rczJ2TDN1Zm5QaEdYVWJMOVBKYnpYZ0tQLW96Y2lWNjJNOE51RUk1Z1E4?oc=5",
+   "source": "Completely Retail News",
+   "published": "2026-11-26T15:31:05+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "PHOTOS: Grateful Gobbler 2026",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaDhyaWpvb1Zob1hOV1Ric19CQUZVcl9oSjYtNnhGQUl6aWszb2Y2Q1YzRXotandpeXB5SG9Md29xc01LMkxOdFRxNG8tOFZsZ0pHYlVfU2FjS2NkYlZfejF5YVdZUnVBWWExcG5acEw5NTNwSmRMRUsyQVVqdTBmMFF4VklMWHM?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T15:28:06+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Thanksgiving store hours 2026: What time do Kroger, Aldi, CVS, Bass Pro Shops and more stores open today?",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWkQ0SG52d0dVNFBPSXg5aDR0eEpEMGNUUW5ILVptQ2N2aENWTDBfMzVJMTVHN0JrZVIwOXgteEdqQlpkM0t6ZGtmYUU3MUxkNDBtVjJVVF9QdGZXc0FueXZtc0dqd2tKZjktaVdCeF83MUZzbW9RUjUyemtBRVdxc0gzZHhKcEhTTXZpU01QZWxJV19Cc2RKc1NvWmw0ZnVGdTZ6amV0b0hCWVhOaUFOc3JWSWhUN2Z4S29RU0tXQnA2dUVEdnc5OHFPWDNQNXcxZlhaVEpZZkdJdGo4aXhobEctTkt0WVFRYThaSndWbGlVbDNtY2JRQUN4MzlRN1U?oc=5",
+   "source": "Yahoo",
+   "published": "2026-11-26T15:27:20+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Y-12 Federal Credit Union Acquires Office Across From Hixson Publix",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT1VSYmkxc0F5c1VlYS12Szc2X0ZrUGpFQ0tMTktQX2Q4Ml93Z04xcVJlLUpBclhvTWJGcGlrYUY5OHZKQlZwMXNsWkp1aUo0NEt6RzNiTG9EQzRKZnRwVjJScHBYVUMxRHRSZFM1QlNLZ0t6ZTVHbUxWamFEeXk4WktpbHA2Y3NuRTZabGV2WQ?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T15:24:06+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Roger Forgey: Thanksgiving Has Requested A Meeting",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYl9vVFVxZG1UVGNQbUZlWExYVThTazNNS21mMjdOSUpscURoM2FNbWtWa3RidFd2S0dDRENyX1NIRUh4dG9QMUllNWUyOENFTWg2SlI4bWhyVWJpOWNJeExTWTc1V2NONU1RQUpHeTNnZjBudkNyTk55LXZlbUpoQlJSeFJCQllm?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T15:24:06+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Nearly All Georgia Regional Commissions Report Labor Force Growth In October",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV21MNzFSU1d2TllROHp4MXN2cmhzZzBBQURSckZUOGNRSUNJcDQxaE9OanlTUFdDd20tb0lZM3YwcXU1RFllcENCUDF4Y2VaUlVGcVNSVjMzODdHQ2FnRFFqTU9GSlBCTFluQ0FHQWwxRF95cFZFeWZIaEo1NXBraldoNmZKWlZJQXpoOHkxd1p2bW5ybWc?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T15:21:15+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Canada's mainstream retail supplement sales rise 8.2% to $2.78 billion, CHFA report finds",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMTR1SWNxQjk1RVBMTUI5R3F4QXRqU0NKVlNuOTFVbTNYM2tqeTE5a1dvU0pseUpuZVdEVlBVMDdDUjVEeDhEdmd4dmRhVWRNM3lzRkoxR0E5eDJLdzl1OHc0UEFka3ViRldtYlJ1TVdXMFJwTUhSWVB4Ynh1MEVGS25SZjQxZlVUbEF3bk40V1NHN1FmMmZtNXZHUURoTlJEbHEyZnVndWM3QjZmYUhzTE85SlZsYjBOSEZRUTJPUVlzRUZpbHhNR2dKUXlseGNUSl9Sd3ln?oc=5",
+   "source": "PR Newswire Canada",
+   "published": "2026-11-26T15:14:00+00:00",
+   "tag": "Business"
+  },
+  {
+   "title": "News | Blackstone ends busy CMBS year with \u00a3248.5 million launch",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU1NsYTZhbkhEd05HT0xuenE0eDJ3MHhWeHNEYmY3SDNQUUdoU0duZHo4cTdoZlVscG5aVmxpVEtjaVNpM2UyWGI4R3ZlQ2N0d2V3d1djU2JPVFp6NzdiekwySDFmN05CQnJoLW5rNTk3QS05Szdiek9oQmpaaGVxdXR0SUlqTmx3WjlhYVc3Wk9KNGtGR1ZvSkR2TlJ5YW8?oc=5",
+   "source": "CoStar",
+   "published": "2026-11-26T15:07:12+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Basketball Round-up: Wednesday, November 25th",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2ZHeVNGU21GdUpDaHZqcExwai1nVjFwLWJ0cjV2TGdTYThxSUk1QW5qRk9yQVNURktQbUdZaWdtbS1nalFZQVIzY0lYRkl5bnJoRGo4TEE5QlJtMUtsN25GRGJaNVlDTDFhMTM5aDRoMFJhVDVqUjc2VXI4Zmhvd0tMWDI4cVd3?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T14:59:06+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Hawkish Fed poised to raise rates despite stock market turmoil",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNREd0RUx1TTJiVHRreUdrdTRYNk5HdVNmMFp4SURfa3c2S1NmalFseWJ5VnZqWkxJZ1gzR1FtZkNjZnJWRzRrU05hNUJCYVhOdGk2RzJRU1NiTVRnYXd4bThxWlhZSmpsMzlGMXZGc0lPaFo3R0FydU5fYkc0Y1c1U0pzSUY?oc=5",
+   "source": "Financial Times",
+   "published": "2026-11-26T14:58:45+00:00",
+   "tag": "Finance"
+  },
+  {
+   "title": "1.25-Acre East Brainerd Vacant Lot Sells For $3 Million",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHRWdEZhdXpiUGFSVXVFRm42alA4Wm96RjVfbkhBdjZNUGprSXBXbGYxRXhhQ2tDZGhmMzBfeVo0T1NmeWxzaUJpejRLZ2pjdWJlbkc2WWpPS0JiaFpqeEZLdXNwZlhWVGZNaDAwZURlYldGV0k2Q0JHTkhjUjNSaXEtLWdLdC0tRFkxckh6VQ?oc=5",
+   "source": "Chattanoogan.com Breaking News",
+   "published": "2026-11-26T14:58:04+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Mexican Retail Dips 0.3% in September as Online Sales Rise 8.1%",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaXk0QUNEaVpQeHRiNkJ3QnczUTFMMVVFQlZVWDVyYjFXVTRVSWF0allxUW1OMzZsdVEyU2w1NGhwZlVkcXJnMmJjZmdjdTdjdkRsZ3BmZHA3Wk5ueGplaVQzb08zMUNfbUctLW9mTVFBWXlwa2lKc3JVXzRoek9ld2hEUzNCc3RHblMxWVE1dktwbW5PRXRXdVdlbXI?oc=5",
+   "source": "Mexico Business News",
+   "published": "2026-11-26T14:57:24+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "Big Apple retail blues: More than 16,000 NYC storefronts sit empty as businesses struggle",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNzJJZHdOb1FuMEI3WVJuZ0oxTjNQOF8xTHhfWmJYU0RvZ194OUoyWDBUYlYxUXhnYk4zZXBhVUQ4M1N0N3U4VU1HSXAwRWtfdzVJUTVLVVJSMGVXTlkzQ0M2ZHZDRjY5ZXNSYkdjN2RlNkZ4X01ocjMycnRFTW1IRGxHOE4wNXpSanl6SHJrTXQ5TEdkMUduQVA2UldjTHRIRWd1MHZzclpyM1UwY0ZQR2pZQkNwRzdNSDJmTmpDWnJXTnVsdVE?oc=5",
+   "source": "New York Post",
+   "published": "2026-11-26T14:43:00+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "The 8 US cities dying before our eyes as workers flee and entire neighborhoods sit abandoned",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTkt2T2o2ZWFXNkx0SENUTWZTaTczOVNSNUtQQjVQSjVFV043bXpHT2gxSUlDWUt5NEs1dUZHaTN0V05pd3lxZlItOUVkOV9YLTg5X3BiZFhra3pNUlVmWXplNEx6TGE2WWR3YTdSR1JMWmZhZDI4eEVxaVVfNXhyQkJpdjZkWldkWkp2ZExPTTNJdnI3MERiUEdvdFMtMmZPTy1yNk9OZi1Ibm15NWJmTmJCTElSY09CX0N1YkVJSERzTnBuVVRRYkMtbDhhdw?oc=5",
+   "source": "New York Post",
+   "published": "2026-11-26T14:29:00+00:00",
+   "tag": "Local"
+  },
+  {
+   "title": "Albanese Faces Mortgage Cost Questions as Global Lending Shifts",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOcm5GWkt6T0gwa1JFRm8wY05xYm4tUE53TEpHdjllTE50b01KUVdZOXJyZzA5RzdrYUItODZNaFZYajZKcnBfUU12RzNkdmJkVjdtekpBb2d2MlpqejVrZFB3OHd0T0gweW5V?oc=5",
+   "source": "Demokratis.co.id",
+   "published": "2026-11-26T14:23:51+00:00",
+   "tag": "CRE"
+  },
+  {
+   "title": "The Sky\u2019s the Limit on Boston Logan\u2019s Latest Food and Retail Options",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRC1nUzBLXzVyUlh6NFljRWE5bW9oVDltSjJBNHpnQ3JZcnkySUpEUnZ0NWNWNVFDUWdTdjhFLWJ1XzRvQjVZWTdEV3hRS3lvN3V1RXdTQU9HaW8weDlCaFBFalZKLW1tVzUxV3hua2pHQUEwVnBwQ1JvTS01V0Y0cFpSaTNuOUZmejZUQ3huSEZsc0tuak9hRl9UNXpVNGRvcjZ0WkJ3SFlOeDdiUEVpbWNUY18?oc=5",
+   "source": "Boston Magazine",
+   "published": "2026-11-26T14:20:04+00:00",
+   "tag": "CRE"
   }
  ]
 }
