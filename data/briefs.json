@@ -146,7 +146,24 @@
    "posted": "2026-11-20T16:42:40.530224+00:00"
   }
  ],
- "archive": [],
+ "archive": [
+  {
+   "title": "What Moved — week of Nov 16, 2026",
+   "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
+   "key_points": [
+    "Dow down ~6% through Thursday; all three indexes fell 2%+ on Thursday alone",
+    "Nvidia beat ($115.8B revenue vs ~$109B expected) but the stock slid; Anthropic IPO priced at $83, opened $111.50, ~$92 Friday",
+    "10-year ~4.99%; futures price a Dec 8–9 hike as nearly certain (~90% for 25bp, 10% for 50bp)",
+    "October retail sales +0.2% vs 0.1% expected; control group +0.6% — but part of it is inflation",
+    "Children's Place liquidating all stores; Grunt Style, Big Lots and IKEA closing more (secondary sources)",
+    "Retail CMBS delinquency +63bp to 7.21%; office highest at 12.33% (Trepp, October data)",
+    "Next week: short Thanksgiving week — Black Friday reads, Fed speakers, and whether the 10-year breaks 5%"
+   ],
+   "talking_point": "Rates are still heading up, but October shoppers kept spending anyway — for well-located, grocery-anchored retail like Broad Street, that steady spending matters more to value than the cost of capital.",
+   "posted": "2026-11-20T18:54:03.323024+00:00",
+   "kind": "friday"
+  }
+ ],
  "monday": {
   "title": "Market Brief — week of November 16, 2026",
   "summary": "Rates are going up while retail space stays scarce: financing is harder, but the space itself is still in demand. The 10-year is back above 5% and futures price a December 9 Fed hike, while retail vacancy sits near record lows and office is stabilizing only at the top end.",
@@ -163,20 +180,20 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-26T21:42:14.008780+00:00",
+ "updated": "2026-11-27T11:45:53.904011+00:00",
  "friday": {
-  "title": "What Moved — week of Nov 16, 2026",
-  "summary": "A rough week for stocks: the Dow was down about 6% through Thursday, its worst week since April 2025, as the AI trade faded even after Nvidia beat estimates. Rates stayed near 5% and the Fed looks set to hike December 8–9, while October shoppers kept spending.",
+  "title": "What Moved — week of Nov 23, 2026",
+  "summary": "A whipsaw holiday week: an AI-led tech selloff (Nasdaq down 4%+ intraday Wednesday) was mostly bought back, and futures pointed sharply higher into Friday's half-day. Data ran hot — Q3 GDP was revised up to 4.3% and core PCE hit 3.3% — locking in odds of a Fed hike on Dec 9. Consumers look sturdier than sentiment suggested, while Children's Place's full liquidation puts more small-box space back on the market.",
   "key_points": [
-   "Dow down ~6% through Thursday; all three indexes fell 2%+ on Thursday alone",
-   "Nvidia beat ($115.8B revenue vs ~$109B expected) but the stock slid; Anthropic IPO priced at $83, opened $111.50, ~$92 Friday",
-   "10-year ~4.99%; futures price a Dec 8–9 hike as nearly certain (~90% for 25bp, 10% for 50bp)",
-   "October retail sales +0.2% vs 0.1% expected; control group +0.6% — but part of it is inflation",
-   "Children's Place liquidating all stores; Grunt Style, Big Lots and IKEA closing more (secondary sources)",
-   "Retail CMBS delinquency +63bp to 7.21%; office highest at 12.33% (Trepp, October data)",
-   "Next week: short Thanksgiving week — Black Friday reads, Fed speakers, and whether the 10-year breaks 5%"
+   "10-yr Treasury ~4.87% Wed, back near 4.92% Friday premarket — still near the top of its range",
+   "Fed: markets price ~95–97% odds of a hike at Dec 8–9 FOMC; ~59% for another in January",
+   "Q3 GDP revised to 4.3% (vs 3.5% est.); core PCE 3.3% y/y (vs 3.2%), highest since Nov 2023",
+   "Jobless claims 189K (vs 200K) — labor market still tight; durable goods missed (+0.2% vs +1.1%)",
+   "Conference Board confidence jumped to 103.3 from 91.9; NRF sees holiday sales +4.2% to ~$1T",
+   "Children's Place liquidating all ~500+ stores — more 4–5K sf inline vacancies coming",
+   "Next week: November jobs report Fri Dec 4 and ISM manufacturing/services ahead of the Dec 9 Fed decision"
   ],
-  "talking_point": "Rates are still heading up, but October shoppers kept spending anyway — for well-located, grocery-anchored retail like Broad Street, that steady spending matters more to value than the cost of capital.",
-  "posted": "2026-11-20T18:54:03.323024+00:00"
+  "talking_point": "Grocers are still buying dead big-box space — a national grocer just paid $271/sf for a former Jo-Ann/Value City box in Charlotte — which is exactly why grocery-anchored retail like Broad Street keeps pricing well even with rates near 4.9%.",
+  "posted": "2026-11-27T11:45:53.904011+00:00"
  }
 }
