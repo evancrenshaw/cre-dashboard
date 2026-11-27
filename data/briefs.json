@@ -1,6 +1,20 @@
 {
  "updates": [
   {
+   "label": "After close",
+   "title": "Chip rebound lifts stocks; 10-year climbs toward 4.93%",
+   "summary": "Stocks finished the half-day session solidly higher as chipmakers bounced, but the 10-year rose into the bond market's 2 PM close after an upward GDP revision. REITs gained less than the market, and off-price and dollar-store tenants lagged.",
+   "key_points": [
+    "Close: Dow +592 (+1.2%) to 50,775; S&P 500 +1.6% to 7,297; Nasdaq +2.3% to 24,130; the chip index rose nearly 5% (Micron +7%+)",
+    "10-year finished around 4.92-4.94%, up roughly 8-9 bp on the day, after Q3 GDP was reported revised up to 4.3% annualized; jobs data is due next week",
+    "Watchlist: VNQ +0.6%, retail REITs flat to +0.6%, office mostly flat (Vornado +1.4%); Cushman +3%, CBRE +1.4%; Dollar Tree -2.4%, TJX -1.6%, Kroger -0.6%, Walmart +0.9%",
+    "Black Friday is still expected to be the year's busiest in-store day (Sensormatic); NRF forecasts holiday sales of about $1 trillion, up roughly 4%"
+   ],
+   "talking_point": "The economy keeps surprising to the upside, which is good for tenant sales but keeps the 10-year near 4.9%, so sellers of stabilized retail should price for today's rates, not hoped-for cuts.",
+   "link": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+   "posted": "2026-11-27T21:43:09.855289+00:00"
+  },
+  {
    "label": "Midday",
    "title": "Stocks rise in half-day session; yields edge up",
    "summary": "Stocks are higher in today's shortened session as chip stocks bounce, though they've given back some early gains. The 10-year is back near 4.9%, up from Wednesday's 4.85%, and REITs and discount retailers are lagging.",
@@ -181,7 +195,7 @@
   "link": "https://claude.ai/artifact/SMasgGejSH47vidoLisnGT",
   "posted": "2026-11-16T11:40:44+00:00"
  },
- "updated": "2026-11-27T16:43:10.876067+00:00",
+ "updated": "2026-11-27T21:43:09.855289+00:00",
  "friday": {
   "title": "What Moved — week of Nov 23, 2026",
   "summary": "A whipsaw holiday week: an AI-led tech selloff (Nasdaq down 4%+ intraday Wednesday) was mostly bought back, and futures pointed sharply higher into Friday's half-day. Data ran hot — Q3 GDP was revised up to 4.3% and core PCE hit 3.3% — locking in odds of a Fed hike on Dec 9. Consumers look sturdier than sentiment suggested, while Children's Place's full liquidation puts more small-box space back on the market.",
